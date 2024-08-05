@@ -1,0 +1,17 @@
+## Interface: 110000
+## Title: BetterBags - Bears Ultimate
+## Version: @project-version@
+## Author: Bearesquishy
+## X-License: MIT
+## X-Curse-Project-ID: 818527
+## X-Wago-ID:  WqKQYEKx
+## IconTexture: Interface\Icons\Ui-gearmanager-itemintobag
+
+## DefaultState: enabled
+## Dependencies: BetterBags
+
+## X-Category: Bags & Inventory
+## X-License: MIT
+
+#expansion.lua
+core.lua
