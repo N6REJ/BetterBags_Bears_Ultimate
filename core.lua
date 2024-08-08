@@ -11,19 +11,23 @@ local categories = BetterBags:GetModule('Categories')
 local L = BetterBags:GetModule('Localization')
 
 local function parseItems(db)
+    local seenItems = {}
     for category, items in pairs(db) do
-        categories:WipeCategory(L:G(category))
         for _, item in pairs(items) do
             if C_Item.GetItemInfoInstant(item) == nil then
                 print("oops... error invalid item", item)
             else
-                categories:AddItemToCategory(item, L:G(category))
+                if seenItems[item] then
+                    print("Duplicate item found:", item)
+                else
+                    seenItems[item] = true
+                    categories:AddItemToCategory(item, L:G(category))
+                end
             end
         end
     end
 end
 
--- START HERE
 -- This will cycle through each database listed in addonTable and run the database for that expansion.
 for dbName, db in pairs(addonTable) do
     if type(db) == "table" then
