@@ -9,7 +9,10 @@
 [![curse](https://img.shields.io/badge/Curseforge_Project_ID:-818527-purple)](https://www.curseforge.com/wow/addons/adibags_bears_Ultimate)
 [![requires](https://img.shields.io/badge/Requires-AdiBags-brown)](https://www.curseforge.com/wow/addons/adibags)
 
-![image](https://user-images.githubusercontent.com/1850089/215004873-840fb4f3-0545-4efa-b350-71db0104f821.png)
+![bank](https://github.com/user-attachments/assets/36854f99-8d23-4f5a-bef7-cd41a2fd797a)
+![bag](https://github.com/user-attachments/assets/87e83e3f-34c8-4b76-b1ca-803201ccc4a0)
+
+
 
 Sorts various stuff into their own categories, Including reagents starting with Dragonflight.
 This is the ultimate BetterBags addon.  Every profession and other special items like <b><i>hearthstones, keystones, fishing, battlepets</i></b> and others are included.
