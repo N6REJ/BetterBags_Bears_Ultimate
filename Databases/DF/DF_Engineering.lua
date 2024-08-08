@@ -8,7 +8,7 @@ local _, addonTable = ...
 -----------------------------------------------------------
 local db = {
 
-    ["Engineering_Reagents"] = {
+    ["Engineering"] = {
         -- ID     --Item name
         198195, -- Arclight Capacitor 1
         198197, -- Arclight Capacitor 2
@@ -40,4 +40,4 @@ local db = {
     },
 }
 -- now that db is populated lets pass it on.
-addonTable.Ultimate = db
+addonTable.DFEngineering = db

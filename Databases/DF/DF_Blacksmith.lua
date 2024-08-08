@@ -32,7 +32,7 @@ local db = {
         190314, -- Khaz'gorite Ore 3
         194545, -- Prismatic Ore},
     },
-    ["Crafted_Reagents"] = {
+    ["Crafted"] = {
         -- ID		--Item name
         190530, -- Frostfire Alloy 1
         190531, -- Frostfire Alloy 2

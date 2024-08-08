@@ -42,7 +42,7 @@ local db = {
         203401, -- Dull Crystal
 
     },
-    ["Optional_Reagents"] = {
+    ["Optional"] = {
         -- ID  = true,		--Item name
         208212, -- Dreaming Essence
 

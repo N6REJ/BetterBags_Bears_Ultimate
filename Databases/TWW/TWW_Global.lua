@@ -10,4 +10,4 @@ local db = {
 
 }
 -- now that db is populated lets pass it on.
-addonTable.Ultimate = db
+addonTable.TWWGlobal = db

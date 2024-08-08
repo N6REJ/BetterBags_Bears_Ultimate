@@ -23,7 +23,7 @@ local db = {
         191467, -- Bubble poppy 1
     },
 
-    ["Crafted_Reagents"] = {
+    ["Crafted"] = {
         -- ID		--Item name
         191495, -- Primal Convergent 3
         191494, -- Primal Convergent 2
