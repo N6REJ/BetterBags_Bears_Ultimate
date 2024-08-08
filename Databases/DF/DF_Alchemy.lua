@@ -35,11 +35,8 @@ local db = {
     },
 
     ["Artisan"] = {
-        items = {
             -- ID,	--Item name
             203398, -- Dampening Powder
-
-        }
     }
 }
 -- now that db is populated lets pass it on.
