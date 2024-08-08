@@ -7,7 +7,7 @@
 
 ![11.0.2](https://img.shields.io/badge/Ready_for-11.0.2-darkgreen)
 [![curse](https://img.shields.io/badge/Curseforge_Project_ID:-1080003-purple)](https://legacy.curseforge.com/wow/addons/betterbags-bears-ultimate)
-[![requires](https://img.shields.io/badge/Requires-Betterbags-brown)](https://www.curseforge.com/wow/addons/betterbags)
+[![requires](https://img.shields.io/badge/Requires-Betterbags-brown)](https://www.curseforge.com/wow/addons/better-bags)
 
 ![bank](https://github.com/user-attachments/assets/36854f99-8d23-4f5a-bef7-cd41a2fd797a)
 ![bag](https://github.com/user-attachments/assets/87e83e3f-34c8-4b76-b1ca-803201ccc4a0)
