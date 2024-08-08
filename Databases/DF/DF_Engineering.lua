@@ -40,4 +40,4 @@ local db = {
     },
 }
 -- now that db is populated lets pass it on.
-addonTable.DFEngineering = db
+addonTable.Database.DFEngineering = db

@@ -14,7 +14,11 @@ local function parseItems(db)
 	for category, items in pairs(db) do
 		categories:WipeCategory(L:G(category))
 		for _, item in pairs(items) do
-			categories:AddItemToCategory(item, L:G(category))
+			if C_Item.GetItemInfoInstant(item) == nil then
+				print("blerh error invalid item", item)
+			else
+				categories:AddItemToCategory(item, L:G(category))
+			end
 		end
 	end
 end

@@ -43,4 +43,4 @@ local db = {
     }
 }
 -- now that db is populated lets pass it on.
-addonTable.DFAlchemy = db
+addonTable.Database.DFAlchemy = db

@@ -18,4 +18,4 @@ local db = {
 }
 
 -- now that db is populated lets pass it on.
-addonTable.Keystones = db
+addonTable.Database.Keystones = db

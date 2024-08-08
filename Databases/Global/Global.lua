@@ -58,7 +58,6 @@ local db = {
         206009, -- Ouroboros Tablet
         206016, -- Ouroboros Tablet
         206011, -- Design of bones
-        411665, -- Recover designs
         206012, -- Designs of Mind
         206010, -- Designs of the flesh
         209419, -- Charred Elemental Remains
@@ -189,4 +188,4 @@ local db = {
 }
 
 -- now that db is populated lets pass it on.
-addonTable.Global = db
+addonTable.Database.Global = db

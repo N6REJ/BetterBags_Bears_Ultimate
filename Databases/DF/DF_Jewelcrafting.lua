@@ -89,4 +89,4 @@ local db = {
     }
 }
 -- now that db is populated lets pass it on.
-addonTable.DFJewelcrafting = db
+addonTable.Database.DFJewelcrafting = db

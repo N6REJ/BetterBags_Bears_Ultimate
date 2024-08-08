@@ -55,4 +55,4 @@ local db = {
     }
 }
 -- now that db is populated lets pass it on.
-addonTable.DFInscription = db
+addonTable.Database.DFInscription = db

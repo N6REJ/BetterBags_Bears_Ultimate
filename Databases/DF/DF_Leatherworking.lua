@@ -85,4 +85,4 @@ local db = {
     }
 }
 -- now that db is populated lets pass it on.
-addonTable.DFLeather = db
+addonTable.Database.DFLeather = db

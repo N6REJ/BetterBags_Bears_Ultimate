@@ -149,4 +149,4 @@ local db = {
 
 
 -- now that db is populated lets pass it on.
-addonTable.BattlePet = db
+addonTable.Database.BattlePet = db

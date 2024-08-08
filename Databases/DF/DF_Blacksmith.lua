@@ -57,4 +57,4 @@ local db = {
     }
 }
 -- now that db is populated lets pass it on.
-addonTable.DFBlacksmithing= db
+addonTable.Database.DFBlacksmithing= db
