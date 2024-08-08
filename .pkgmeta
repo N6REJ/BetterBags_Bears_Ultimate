@@ -1,4 +1,4 @@
-package-as: BetterBags_Bears_Ultimate
+package-as: BetterBags Bears Ultimate
 
 ignore:
     - README.md

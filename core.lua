@@ -13,7 +13,9 @@ local L = BetterBags:GetModule('Localization')
 local function parseItems(db)
     for category, items in pairs(db) do
         for _, item in pairs(items) do
-            categories:AddItemToCategory(item, L:G(category))
+            if C_Item.GetItemInfoInstant(item) then
+                categories:AddItemToCategory(item, L:G(category))
+            end
         end
     end
 end
