@@ -13,6 +13,7 @@
 ## X-Category: Bags & Inventory
 ## X-License: MIT
 
+boot.lua
 Databases/DF/DF_Alchemy.lua
 Databases/DF/DF_Blacksmith.lua
 Databases/DF/DF_Cooking.lua
