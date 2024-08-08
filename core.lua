@@ -11,22 +11,18 @@ local categories = BetterBags:GetModule('Categories')
 local L = BetterBags:GetModule('Localization')
 
 local function parseItems(db)
-	for category, items in pairs(db) do
-		categories:WipeCategory(L:G(category))
-		for _, item in pairs(items) do
-			if C_Item.GetItemInfoInstant(item) == nil then
-				print("blerh error invalid item", item)
-			else
-				categories:AddItemToCategory(item, L:G(category))
-			end
-		end
-	end
+    for category, items in pairs(db) do
+        categories:WipeCategory(L:G(category))
+        for _, item in pairs(items) do
+            categories:AddItemToCategory(item, L:G(category))
+        end
+    end
 end
 
 -- START HERE
 -- This will cycle through each database listed in addonTable and run the database for that expansion.
 for dbName, db in pairs(addonTable) do
-	if type(db) == "table" then
-		parseItems(db)
-	end
+    if type(db) == "table" then
+        parseItems(db)
+    end
 end
