@@ -1,0 +1,71 @@
+group:
+# Global files to be synced
+  - files:
+      - source: .github/CODEOWNERS
+        dest: .github/CODEOWNERS
+      - source: .github/FUNDING.yml
+        dest: .github/FUNDING.yml
+      - source: .github/dependabot.yml
+        dest: .github/dependabot.yml
+      - source: .github/labels.yml
+        dest: .github/labels.yml
+      - source: .github/workflows/create-labels.yml
+        dest: .github/workflows/create-labels.yml
+      - source: .github/workflows/release.yml
+        dest: .github/workflows/release.yml
+      - source: .github/auto-merge.yml
+        dest: .github/auto-merge.yml
+      - source: .github/workflows/auto-merge.yml
+        dest: .github/workflows/auto-merge.yml
+      - source: .gitignore
+        dest: .gitignore
+      - LICENSE
+      - favicon.ico
+      - source: .packager/
+        dest: .packager/
+    repos: |
+        N6REJ/Bears_audio_switcher
+
+# only for N6REJ/BetterBags
+  - files:
+     - source: wow/BetterBags/core.lua
+       dest: core.lua
+     - source: wow/BetterBags/expansion.lua
+       dest: expansion.lua
+    repos: |
+        N6REJ/BetterBags_Bears_Alchemy
+        N6REJ/BetterBags_Bears_Battle_Pet_Items
+        N6REJ/BetterBags_Bears_Blacksmithing
+        N6REJ/BetterBags_Bears_Cooking
+        N6REJ/BetterBags_Bears_Enchanting
+        N6REJ/BetterBags_Bears_Engineering
+        N6REJ/BetterBags_Bears_Fishing
+        N6REJ/BetterBags-Bears-Fishing-Items
+        N6REJ/BetterBags_Bears_Hearthstones
+        N6REJ/BetterBags_Bears_Herbs
+        N6REJ/BetterBags_Bears_Inscription
+        N6REJ/BetterBags_Bears_Jewelcrafting
+        N6REJ/BetterBags_Bears_Keystones
+        N6REJ/BetterBags_Bears_Leatherworking
+        N6REJ/BetterBags_Bears_Mining
+        N6REJ/BetterBags_Bears_Tailoring
+        N6REJ/BetterBags_Bears_Ultimate
+
+    # only for Professions databases
+  - files:
+        - source: wow/DF-Global.lua
+          dest: DF-Global.lua
+    repos: |
+        N6REJ/BetterBags_Bears_Alchemy
+        N6REJ/BetterBags_Bears_Blacksmithing
+        N6REJ/BetterBags_Bears_Cooking
+        N6REJ/BetterBags_Bears_Enchanting
+        N6REJ/BetterBags_Bears_Engineering
+        N6REJ/BetterBags_Bears_Fishing
+        N6REJ/BetterBags_Bears_Herbs
+        N6REJ/BetterBags_Bears_Inscription
+        N6REJ/BetterBags_Bears_Jewelcrafting
+        N6REJ/BetterBags_Bears_Leatherworking
+        N6REJ/BetterBags_Bears_Mining
+        N6REJ/BetterBags_Bears_Tailoring
+        N6REJ/BetterBags_Bears_Ultimate
