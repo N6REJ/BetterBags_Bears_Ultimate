@@ -8,7 +8,7 @@ local _, addonTable = ...
 -----------------------------------------------------------
 local db = {
     ["Pet Items"] = {
-        -- ID  = true,		-- Item name
+        -- ID		-- Item name
         37431, -- Fetch Ball
         43352, -- Pet Grooming Kit
         43626, -- Happy Pet Snack
@@ -36,7 +36,7 @@ local db = {
         183113, -- Flexing Phalanges
     },
     ["Pet Eggs"] = {
-        -- ID  = true,		-- Item name
+        -- ID		-- Item name
         21310, -- Gaily Wrapped Present
         39878, -- Mysterious Egg
         112107, -- Mysterious Egg
@@ -47,7 +47,7 @@ local db = {
         182607, -- Hairy Egg
     },
     ["Pet Currency"] = {
-        -- ID  = true,		-- Item name
+        -- ID		-- Item name
         101529, -- Celestial Coin
         116415, -- Shiny Pet Charm
         151191, -- Old Bottle Cap
@@ -58,7 +58,7 @@ local db = {
     },
     ["Pet Supplies"] = {
 
-        -- ID  = true,		-- Item name
+        -- ID		-- Item name
         89125, -- Sack of Pet Supplies
         94207, -- Fabled Pandaren Pet Supplies
         93146, -- Pandaren Burning Spirit Pet Supplies
@@ -80,7 +80,7 @@ local db = {
     },
     ["Pet Stones"] = {
 
-        -- ID  = true,		-- Item name
+        -- ID		-- Item name
         92741, -- Flawless Battle-Stone
         92679, -- Flawless Aquatic Battle-Stone
         92675, -- Flawless Beast Battle-Stone
@@ -110,7 +110,7 @@ local db = {
     },
     ["Pet Toys"] = {
 
-        -- ID  = true,		-- Item name
+        -- ID		-- Item name
         44820, -- Red Ribbon Pet Leash
         37460, -- Rope Pet Leash
         89139, -- Chain Pet Leash
@@ -127,7 +127,7 @@ local db = {
     },
     ["Pet Costumes"] = {
 
-        -- ID  = true,		-- Item name
+        -- ID		-- Item name
         103786, -- "Dapper Gentleman" Costume
         103789, -- "Little Princess" Costume
         103795, -- "Dread Pirate" Costume
@@ -139,7 +139,7 @@ local db = {
         128650, -- "Merry Munchkin" Costume
     },
     ["Pets: Chip"] = {
-        -- ID  = true,		-- Item name
+        -- ID		-- Item name
         -- Reagents for "chip"
         199219, -- Element-Infused Blood
         198082, -- Pre-Sentient Rock Cluster

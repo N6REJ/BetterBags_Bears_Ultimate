@@ -9,7 +9,7 @@ local _, addonTable = ...
 local db = {
     ["Global"] = {
 
-            -- ID  = true,		--Item name
+            -- ID		--Item name
             190454, -- Primal Chaos
             202122, -- Primal Chaos Cluster
             200686, -- Primal Focus
@@ -22,7 +22,7 @@ local db = {
             204217, -- Unstable Elementium
     },
     ["Sparks"] = {
-            -- ID  = true,		--Item name
+            -- ID		--Item name
             204195, -- Drake's Shadowflame Crest
             204193, -- Whelpling's Shadowflame Crest
             204697, -- Enchanted Aspect's Shadowflame Crest
@@ -39,7 +39,7 @@ local db = {
             206960, -- Enchanted Wyrm's Dreaming Crest
     },
     ["Combine"] = {
-            -- ID  = true,		--Item name
+            -- ID		--Item name
             203703, -- Prismatic Fragment
             203702, -- Experimental Melder
             204360, -- Strange Petrified Orb
@@ -64,7 +64,7 @@ local db = {
             209419, -- Charred Elemental Remains
     },
     ["Finishing_Reagents"] = {
-            -- ID  = true,		--Item name
+            -- ID		--Item name
             191529, -- Illustrious Insight
             191526, -- Lesser Illustrious Insight
             194902, -- Ooey-Gooey Chocolate
@@ -110,7 +110,7 @@ local db = {
             193955, -- Vibrant Polishing Cloth 3
     },
     ["Elemental"] = {
-            -- ID  = true,		--Item name
+            -- ID		--Item name
             190326, -- Rousing Air
             190315, -- Rousing Earth
             190320, -- Rousing Fire
@@ -126,7 +126,7 @@ local db = {
             190324, -- Awakened Order
     },
     ["Special_Reagents"] = {
-            -- ID  = true,		--Item name
+            -- ID		--Item name
             193360, -- Centaur's Trophy Necklace
             194746, -- Thomas's Empty Bottle
             194728, -- Fiery Spirit 1
@@ -134,7 +134,7 @@ local db = {
             194729, -- Fiery Spirit 3
     },
     ["Optional_Reagents"] = {
-            -- ID  = true,		--Item name
+            -- ID		--Item name
             198048, -- Titan Training Matrix 1
             198056, -- Titan Training Matrix 2
             198058, -- Titan Training Matrix 3
@@ -143,7 +143,7 @@ local db = {
             197921, -- Primal Infusion
     },
     ["Vendor_Reagents"] = {
-            -- ID    = true,    --Item name
+            -- ID     --Item name
             191474, -- Draconic Vial
             200860, -- Draconic Stopper
             197861, -- Fleeting Philosopher's Stone
@@ -161,7 +161,20 @@ local db = {
             198487, -- Iridescent Water
             192833, -- Misshapen Filigree
             198796, -- Quack-E Quack Modulator
-    }
+    },
+    ["Ore"] = {
+            -- ID		--Item name
+            190394, -- Serevite Ore
+            190395, -- Serevite Ore
+            190396, -- Serevite Ore
+            189143, -- Draconium Ore 1
+            188658, -- Draconium Ore 2
+            190311, -- Draconium Ore 3
+            190312, -- Khaz'gorite Ore 1
+            190313, -- Khaz'gorite Ore 2
+            190314, -- Khaz'gorite Ore 3
+            194545, -- Prismatic Ore
+    },
 }
 
 -- now that db is populated lets pass it on.

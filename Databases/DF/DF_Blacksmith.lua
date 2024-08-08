@@ -20,7 +20,7 @@ local db = {
         190538, -- Infurious Alloy 3
     },
     ["Ore"] = {
-        -- ID  = true,		--Item name
+        -- ID		--Item name
         190394, -- Serevite Ore 1
         190395, -- Serevite Ore 2
         190396, -- Serevite Ore 3
@@ -33,7 +33,7 @@ local db = {
         194545, -- Prismatic Ore},
     },
     ["Crafted_Reagents"] = {
-        -- ID  = true,		--Item name
+        -- ID		--Item name
         190530, -- Frostfire Alloy 1
         190531, -- Frostfire Alloy 2
         190532, -- Frostfire Alloy 3
@@ -48,7 +48,7 @@ local db = {
         190535, -- Obsidian Seared Alloy 3},
     },
     ["Tools"] = {
-        -- ID    = true,    --Item name
+        -- ID     --Item name
         201366, -- Master's Hammer},
     },
     ["Artisan"] = {

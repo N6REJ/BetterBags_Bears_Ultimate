@@ -24,7 +24,7 @@ local db = {
     },
 
     ["Crafted_Reagents"] = {
-        -- ID  = true,		--Item name
+        -- ID		--Item name
         191495, -- Primal Convergent 3
         191494, -- Primal Convergent 2
         191493, -- Primal Convergent 1
