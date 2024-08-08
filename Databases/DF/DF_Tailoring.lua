@@ -49,4 +49,4 @@ local db = {
         }
 }
 -- now that db is populated lets pass it on.
-addonTable.Database.Ultimate = db
+addonTable.Database.Tailoring = db
