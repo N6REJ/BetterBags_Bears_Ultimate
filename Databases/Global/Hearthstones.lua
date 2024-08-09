@@ -7,7 +7,7 @@ local _, addonTable = ...
 -- Database
 -----------------------------------------------------------
 local db = {
-    ["|cff16B7FFHearthstones|r"] = {
+    ["|cff16A0FFHearthstones|r"] = {
         -- ID,	--Item name
         173523, -- Tirisfal Camp Scroll
         128353, -- Admiral's Compass
