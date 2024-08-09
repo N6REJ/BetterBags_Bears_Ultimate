@@ -23,9 +23,10 @@ Databases/DF/DF_Fishing.lua
 Databases/DF/DF_Inscription.lua
 Databases/DF/DF_Jewelcrafting.lua
 Databases/DF/DF_Tailoring.lua
+Databases/DF/DF_Ultimate.lua
+Databases/DF/DF_Global.lua
 Databases/Global/BattlePet.lua
 Databases/Global/Global.lua
 Databases/Global/Hearthstones.lua
 Databases/Global/Keystones.lua
-Databases/Global/Ultimate.lua
 core.lua

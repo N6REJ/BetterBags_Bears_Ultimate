@@ -60,8 +60,6 @@ local db = {
         191369, -- Potion of Withering Vitality 1
         191370, -- Potion of Withering Vitality 2
         191371, -- Potion of Withering Vitality 3
-        5512, -- HealthStone
-        113509, -- Conjured Mana bun
         171269, -- Spiritual Rejuvenation Potion
     },
     ["Phials"] = {
@@ -712,7 +710,7 @@ local db = {
         201359, -- Glimmer of Earth
         201360, -- Glimmer of Order
     },
-    ["Special"] = {
+    ["Forbidden"] = {
         -- ID  = true,		--Item name
         204276, -- Untapped Forbidden Knowledge
         202196, -- Zskera Vault Key
@@ -804,8 +802,6 @@ local db = {
     ["Currency"] = {
         -- ID    = true,    --Item name
         204715, -- Unearthed Fragrant Coin
-        137642, -- Mark of Honor
-        1602, -- Conquest
         204985, -- Barter Brick
         205188, -- Barter Boulder
         204727, -- Coveted Bauble
@@ -813,6 +809,7 @@ local db = {
         207030, -- Dilated Time Capsule
         207026, -- Dreamsurge Coalescence
         211376, -- Seedbloom
+        213089, -- Antique Bronze Bullion
     },
     ["Mount"] = {
         -- ID    = true,    --Item name
@@ -831,13 +828,6 @@ local db = {
         204860, -- Vantus rune: Abeerrus Crucible
         425954, -- Vantus Rune: Amirdrassil, the Dream's Hope
         383546, -- Vantus Rune: Vault of the Incarnates
-    },
-
-    ["Repair"] = {
-        -- ID    = true,    --Item name
-        -- old item but useful
-        132514, -- Auto-Hammer
-        49040   -- Jeeves
     }
 }
 -- now that db is populated lets pass it on.
