@@ -25,5 +25,10 @@ local function parseItems(db, seenCategories)
             categories:WipeCategory(L:G(category))
             seenCategories[category] = true
         end
+        for _, item in pairs(items) do
+            if C_Item.GetItemInfoInstant(item) then
+                categories:AddItemToCategory(item, L:G(category))
+            end
+        end
     end
 end
