@@ -62,6 +62,7 @@ local db = {
         191371, -- Potion of Withering Vitality 3
         5512, -- HealthStone
         113509, -- Conjured Mana bun
+        171269, -- Spiritual Rejuvenation Potion
     },
     ["Phials"] = {
         -- ID  = true,		--Item name
