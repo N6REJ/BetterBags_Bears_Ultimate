@@ -7,7 +7,7 @@ local _, addonTable = ...
 -- Database
 -----------------------------------------------------------
 local db = {
-    ["|cff16a7FKey|r"] = {
+    ["|cff16a7FFKey|r"] = {
         -- ID,	--Item name
         138019, -- Legion Keystone
         151086, -- Tournament Stone
