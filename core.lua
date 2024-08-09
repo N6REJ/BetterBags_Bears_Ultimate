@@ -10,21 +10,20 @@ local categories = BetterBags:GetModule('Categories')
 ---@class Localization: AceModule
 local L = BetterBags:GetModule('Localization')
 
-local function parseItems(db)
-    for category, items in pairs(db) do
-        categories:WipeCategory(L:G(category))
-        for _, item in pairs(items) do
-            if C_Item.GetItemInfoInstant(item) then
-                categories:AddItemToCategory(item, L:G(category))
-            end
-        end
+--- Parse thru categories and if its been seen before mark it as such
+for dbName, db in pairs(addonTable.Database) do
+    local seenCategories = {}
+    if type(db) == "table" then
+        parseItems(db, seenCategories)
     end
 end
 
--- START HERE
--- This will cycle through each database listed in addonTable and run the database for that expansion.
-for dbName, db in pairs(addonTable.Database) do
-    if type(db) == "table" then
-        parseItems(db)
+--- Parse thru items.  If category is new wipe it else just add items to it.
+local function parseItems(db, seenCategories)
+    for category, items in pairs(db) do
+        if not seenCategories[category] then
+            categories:WipeCategory(L:G(category))
+            seenCategories[category] = true
+        end
     end
 end
