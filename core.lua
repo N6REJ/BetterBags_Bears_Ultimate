@@ -10,14 +10,6 @@ local categories = BetterBags:GetModule('Categories')
 ---@class Localization: AceModule
 local L = BetterBags:GetModule('Localization')
 
---- Parse thru categories and if its been seen before mark it as such
-for dbName, db in pairs(addonTable.Database) do
-    local seenCategories = {}
-    if type(db) == "table" then
-        parseItems(db, seenCategories)
-    end
-end
-
 --- Parse thru items.  If category is new wipe it else just add items to it.
 local function parseItems(db, seenCategories)
     for category, items in pairs(db) do
@@ -30,5 +22,13 @@ local function parseItems(db, seenCategories)
                 categories:AddItemToCategory(item, L:G(category))
             end
         end
+    end
+end
+
+--- Parse thru categories and if its been seen before mark it as such
+for dbName, db in pairs(addonTable.Database) do
+    local seenCategories = {}
+    if type(db) == "table" then
+        parseItems(db, seenCategories)
     end
 end
