@@ -11,6 +11,10 @@ local db = {
         -- ID,	--Item name
         2100930,    -- Bismuth
     },
+    ["Special"] = {
+        -- ID,	--Item name
+        213613,   -- Leyline Residue
+    },
 }
 -- now that db is populated lets pass it on.
 addonTable.Database.TWWGlobal = db
