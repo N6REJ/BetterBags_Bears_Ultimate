@@ -25,6 +25,15 @@ Databases/DF/DF_Jewelcrafting.lua
 Databases/DF/DF_Tailoring.lua
 Databases/DF/DF_Ultimate.lua
 Databases/DF/DF_Global.lua
+Databases/TWW/TWW_Alchemy.lua
+Databases/TWW/TWW_Blacksmith.lua
+Databases/TWW/TWW_Cooking.lua
+Databases/TWW/TWW_Enchanting.lua
+Databases/TWW/TWW_Engineering.lua
+Databases/TWW/TWW_Inscription.lua
+Databases/TWW/TWW_Jewelcrafting.lua
+Databases/TWW/TWW_Tailoring.lua
+Databases/TWW/TWW_Global.lua
 Databases/Global/BattlePet.lua
 Databases/Global/Global.lua
 Databases/Global/Hearthstones.lua
