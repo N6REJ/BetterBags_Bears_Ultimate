@@ -34,6 +34,7 @@ Databases/TWW/TWW_Inscription.lua
 Databases/TWW/TWW_Jewelcrafting.lua
 Databases/TWW/TWW_Tailoring.lua
 Databases/TWW/TWW_Global.lua
+Databases/TWW/TWW_Ultimate.lua
 Databases/Global/BattlePet.lua
 Databases/Global/Global.lua
 Databases/Global/Hearthstones.lua
