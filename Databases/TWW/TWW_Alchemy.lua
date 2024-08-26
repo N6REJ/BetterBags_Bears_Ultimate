@@ -5,7 +5,6 @@
 local _, addonTable = ...
 
 -- Database
------------------------------------------------------------
 local db = {
     ["Herb"] = {
         -- ID,	--Item name
@@ -18,7 +17,12 @@ local db = {
         210796,    -- Mycobloom 1
         210797,    -- Mycobloom 2
         210798,    -- Mycobloom 3
-
+        210799,    -- Luredrop 1
+        210800,    -- Luredrop 2
+        210801,    -- Luredrop 3
+        210802,    -- Orbinid 1
+        210803,    -- Orbinid 2
+        210804,    -- Orbinid 3
     }
 }
 -- now that db is populated lets pass it on.

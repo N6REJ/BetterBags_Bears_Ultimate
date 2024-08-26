@@ -5,10 +5,13 @@
 local _, addonTable = ...
 
 -- Database
------------------------------------------------------------
+
 local db = {
-    [""] = {
+    ["Vendor"] = {
         -- ID,	--Item name
+       211806, -- Gilded Vial 1
+       211807, -- Gilded Vial 2
+       211808, -- Gilded Vial 3
     }
 }
 -- now that db is populated lets pass it on.

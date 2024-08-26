@@ -9,6 +9,9 @@ local db = {
     ["Knowledge"] = {
         -- ID,	--Item name
         226334, -- Earthen Excavator's Shovel
+    },
+    ['Turn-in'] = {
+        224025, -- Crackling Shard
     }
 }
 -- now that db is populated lets pass it on.

@@ -5,7 +5,7 @@
 local _, addonTable = ...
 
 -- Database
------------------------------------------------------------
+
 local db = {
 
     ["Engineering"] = {

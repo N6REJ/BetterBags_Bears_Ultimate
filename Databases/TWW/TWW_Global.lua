@@ -5,7 +5,7 @@
 local _, addonTable = ...
 
 -- Database
------------------------------------------------------------
+
 local db = {
     ["Ore"] = {
         -- ID,	--Item name
@@ -17,6 +17,8 @@ local db = {
     ["Special"] = {
         -- ID,	--Item name
         213613,   -- Leyline Residue
+        213610,   -- Crystalline Powder
+        225569, -- Clipped Bird Wing
     },
 }
 -- now that db is populated lets pass it on.

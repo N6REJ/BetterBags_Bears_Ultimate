@@ -5,7 +5,7 @@
 local _, addonTable = ...
 
 -- Database
------------------------------------------------------------
+
 local db = {
     ["Pots"] = {
         -- ID  = true,		--Item name

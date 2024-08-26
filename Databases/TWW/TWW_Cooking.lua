@@ -5,11 +5,13 @@
 local _, addonTable = ...
 
 -- Database
------------------------------------------------------------
+
 local db = {
     ["Meat"] = {
         -- ID,	--Item name
         223512, -- Basically Beef
+        225911, -- Cinderbee Belly
+        225566, -- Warped Wing
     }
 }
 -- now that db is populated lets pass it on.

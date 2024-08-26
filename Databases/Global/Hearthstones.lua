@@ -5,7 +5,7 @@
 local _, addonTable = ...
 
 -- Database
------------------------------------------------------------
+
 local db = {
     ["|cff16A0FFHearthstones|r"] = {
         -- ID,	--Item name
