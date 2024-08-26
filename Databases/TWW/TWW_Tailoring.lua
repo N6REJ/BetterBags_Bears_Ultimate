@@ -9,9 +9,9 @@ local _, addonTable = ...
 local db = {
     ["Cloth"] = {
         -- ID,	--Item name
-        2222804, -- Weavercloth Bolt 1
-        2222805, -- Weavercloth Bolt 2
-        2222806, -- Weavercloth Bolt 3
+        222804, -- Weavercloth Bolt 1
+        222805, -- Weavercloth Bolt 2
+        222806, -- Weavercloth Bolt 3
     }
 }
 -- now that db is populated lets pass it on.

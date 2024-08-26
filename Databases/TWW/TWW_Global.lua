@@ -13,6 +13,9 @@ local db = {
         210936,     -- Ironclaw ore 1
         210937,     -- Ironclaw ore 2
         210938,     -- Ironclaw ore 3
+        210930,     -- Bismuth 1
+        210931,     -- Bismuth 2
+        210932,     -- Bismuth 3
     },
     ["Special"] = {
         -- ID,	--Item name

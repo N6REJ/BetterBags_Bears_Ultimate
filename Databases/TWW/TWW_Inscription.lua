@@ -9,7 +9,9 @@ local _, addonTable = ...
 local db = {
     ["Ink"] = {
         -- ID,	--Item name
-        333+26,     --Apricate Ink
+        222615,     --Apricate Ink 1
+        222616,     --Apricate Ink 2
+        222617,     --Apricate Ink 3
     }
 }
 -- now that db is populated lets pass it on.
