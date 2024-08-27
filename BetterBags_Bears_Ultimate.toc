@@ -22,6 +22,7 @@ Databases/DF/DF_Engineering.lua
 Databases/DF/DF_Fishing.lua
 Databases/DF/DF_Inscription.lua
 Databases/DF/DF_Jewelcrafting.lua
+Databases/DF/DF_Leatherworking.lua
 Databases/DF/DF_Tailoring.lua
 Databases/DF/DF_Ultimate.lua
 Databases/DF/DF_Global.lua
@@ -32,6 +33,7 @@ Databases/TWW/TWW_Enchanting.lua
 Databases/TWW/TWW_Engineering.lua
 Databases/TWW/TWW_Inscription.lua
 Databases/TWW/TWW_Jewelcrafting.lua
+Databases/TWW/TWW_Leatherworking.lua
 Databases/TWW/TWW_Tailoring.lua
 Databases/TWW/TWW_Global.lua
 Databases/TWW/TWW_Ultimate.lua
