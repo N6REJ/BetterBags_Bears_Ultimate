@@ -22,6 +22,9 @@ local db = {
         213613,   -- Leyline Residue
         213610,   -- Crystalline Powder
         225569, -- Clipped Bird Wing
+        221754, -- Ringing Deeps Ingot
+        221756, -- Vial of Kaheti Oils
+        213612, -- Viridescent Spores
     },
 }
 -- now that db is populated lets pass it on.

@@ -23,6 +23,15 @@ local db = {
         210802,    -- Orbinid 1
         210803,    -- Orbinid 2
         210804,    -- Orbinid 3
+    },
+    ["Crafted"] = {
+        -- ID,	--Item name
+        211803, -- Mercurial Transmutagen
+        211802, -- Ominous Transmutagen
+        211804, -- Volatile Transmutagen
+        211805, -- Gleaming Transmutagen
+        210815, -- Coreway Catalyst
+        210828, -- Dilution Solution
     }
 }
 -- now that db is populated lets pass it on.

@@ -12,6 +12,7 @@ local db = {
         223512, -- Basically Beef
         225911, -- Cinderbee Belly
         225566, -- Warped Wing
+        225565, -- Massive Worm Flank
     }
 }
 -- now that db is populated lets pass it on.

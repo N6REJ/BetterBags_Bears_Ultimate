@@ -12,6 +12,7 @@ local db = {
        211806, -- Gilded Vial 1
        211807, -- Gilded Vial 2
        211808, -- Gilded Vial 3
+       212498, -- Ambivalent amber
     }
 }
 -- now that db is populated lets pass it on.
