@@ -633,7 +633,7 @@ local db = {
         199696, -- Iskaaran Ice Axe ( used for ice fishing )
         15138, -- Onyxia Scale Cloak ( For shadowflame chest )
     },
-    ["Turn_In"] = {
+    ["Turn-In"] = {
         -- ID  = true,		--Item name
         191251, -- Obsidian citadel Key Frame
         193201, -- Obsidian citadel Key Fragment
@@ -687,7 +687,7 @@ local db = {
         205216, -- Gently Jostled Jewels
         205214, -- Snubbed Snail Shells
         205984, -- Bartered Dig Map
-        -- Dreamsurge Turn_In
+        -- Dreamsurge Turn-In
         210776, -- Lesser Dream Infusion
         211389, -- Cache of Overblooming Treasures
         211413, -- Budding Dreamtrove
