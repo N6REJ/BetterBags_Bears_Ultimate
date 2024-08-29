@@ -180,6 +180,7 @@ local db = {
     ['Turn-in'] = {
         224025, -- Crackling Shard
         212493, -- Odd Glob of Wax
+        223951, -- Earth-Encrusted Gem
     }
 }
 -- now that db is populated lets pass it on.

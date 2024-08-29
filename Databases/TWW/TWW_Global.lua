@@ -9,7 +9,6 @@ local _, addonTable = ...
 local db = {
     ["Ore"] = {
         -- ID,	--Item name
-        2100930,    -- Bismuth
         210936,     -- Ironclaw ore 1
         210937,     -- Ironclaw ore 2
         210938,     -- Ironclaw ore 3
