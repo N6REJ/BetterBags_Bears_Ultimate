@@ -177,11 +177,28 @@ local db = {
         222547, -- Algari Treatise on Tailoring
         228739, -- Glimmer of Tailoring Knowledge
     },
-    ['Turn-in'] = {
+    ['Turn-In'] = {
         224025, -- Crackling Shard
         212493, -- Odd Glob of Wax
         223951, -- Earth-Encrusted Gem
-    }
+    },
+    ["Seeds"] = {
+        -- Seeds
+        219194, -- Magical Mulch
+        219195, -- Imbued Mulch
+        219196, -- Empowered Mulch
+        214561, -- Verdant Seed
+        214595, -- Sporefused Verdant Seed
+        214597, -- Irradiated Verdant Seed
+        214605, -- Crystallized Verdant Seed
+    },
+    ["Meta"] = {
+        210814, -- Artisan's Acuity
+        228224, -- Spark of Legacies
+        211494, -- Spark of Beginnings
+        211296, -- Spark of Omens
+        211297, -- Fractured Spark of Omens
+    },
 }
 -- now that db is populated lets pass it on.
 addonTable.Database.TWWUltimate = db

@@ -23,6 +23,9 @@ local db = {
         210802,    -- Orbinid 1
         210803,    -- Orbinid 2
         210804,    -- Orbinid 3
+        213197, -- Null Lotus
+        213613, -- Leyline Residue
+        213612, -- Viridescent Spores
     },
     ["Crafted"] = {
         -- ID,	--Item name
@@ -32,6 +35,18 @@ local db = {
         211805, -- Gleaming Transmutagen
         210815, -- Coreway Catalyst
         210828, -- Dilution Solution
+        212563, -- Harmonious Horticulture
+        212564, -- Harmonious Horticulture
+        212565, -- Harmonious Horticulture
+    },
+    ["Vendor"] = {
+        211806, -- Gilded Vial
+        211807, -- Gilded Vial
+        211808, -- Gilded Vial
+    },
+    ["Alchemy"] = {
+        212754, -- Crystalforged Cauldron
+
     }
 }
 -- now that db is populated lets pass it on.

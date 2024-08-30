@@ -58,6 +58,10 @@ local db = {
     ["Crafted"] = {
         -- ID,	--Item name
         224832, -- Exquisite Weavercloth Bolt
+    },
+    ["Vendor"] = {
+        224764, -- Mosswool Thread
+
     }
 }
 -- now that db is populated lets pass it on.

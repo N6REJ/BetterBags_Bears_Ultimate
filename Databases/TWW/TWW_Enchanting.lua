@@ -7,8 +7,16 @@ local _, addonTable = ...
 -- Database
 
 local db = {
-    [""] = {
-        -- ID,	--Item name
+    ["Enchanting"] = {
+        219946, -- Storm Dust
+        219947, -- Storm Dust
+        219948, -- Storm Dust
+        219949, -- Gleaming Shard
+        219950, -- Gleaming Shard
+        219951, -- Gleaming Shard
+        219952, -- Refulgent Crystal
+        219954, -- Refulgent Crystal
+        219955, -- Refulgent Crystal
     }
 }
 -- now that db is populated lets pass it on.

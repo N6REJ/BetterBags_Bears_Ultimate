@@ -23,19 +23,8 @@ local db = {
         210941, -- Null Stone
         217707, -- Imperfect Null Stone
         221754, -- Ringing Deeps Ingot
-    },
-    ["Special"] = {
-        -- ID,	--Item name
-        221756, -- Vial of Kaheti Oils
-        221758, -- Profaned Tinderbox
-        221754, -- Ringing Deeps Ingot
-        213611, -- Writhing Sample
-
-    },
-    ["Crafted"] = {
-        213610, -- Crystalline Powder
 
     }
 }
 -- now that db is populated lets pass it on.
-addonTable.Database.TWWGlobal = db
+addonTable.Database.TWWMining = db
