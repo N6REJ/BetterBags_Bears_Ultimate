@@ -192,13 +192,15 @@ local db = {
         214597, -- Irradiated Verdant Seed
         214605, -- Crystallized Verdant Seed
     },
-    ["Meta"] = {
-        210814, -- Artisan's Acuity
+    ["Sparks"] = {
         228224, -- Spark of Legacies
         211494, -- Spark of Beginnings
         211296, -- Spark of Omens
         211297, -- Fractured Spark of Omens
     },
+    ["Currency"] = {
+        210814, -- Artisan's Acuity
+    }
 }
 -- now that db is populated lets pass it on.
 addonTable.Database.TWWUltimate = db

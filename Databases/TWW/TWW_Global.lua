@@ -30,11 +30,7 @@ local db = {
         221758, -- Profaned Tinderbox
         221754, -- Ringing Deeps Ingot
         213611, -- Writhing Sample
-
-    },
-    ["Crafted"] = {
         213610, -- Crystalline Powder
-
     }
 }
 -- now that db is populated lets pass it on.
