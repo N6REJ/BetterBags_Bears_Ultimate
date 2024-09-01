@@ -57,7 +57,9 @@ local db = {
         224826, -- Dawnweave 1
         228238, -- Dawnweave 2
         228236, -- Dawnweave 3
-
+        224824, -- Duskweave 1
+        224233, -- Duskweave 2
+        224234, -- Duskweave 3
 
     },
     ["Crafted"] = {
