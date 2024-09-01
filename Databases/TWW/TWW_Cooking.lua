@@ -47,6 +47,7 @@ local db = {
         220390, -- Surface Olive
         222258, -- Surface Olive
         220393, -- Clumped Flour
+        222738, -- Portioned Steak
     },
     ["Cooking"] = {
         222741, -- Fresh Fillet
