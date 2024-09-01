@@ -54,6 +54,11 @@ local db = {
         222798, -- Duskweave Bolt
         222799, -- Duskweave Bolt
         222800, -- Duskweave Bolt
+        224826, -- Dawnweave 1
+        228238, -- Dawnweave 2
+        228236, -- Dawnweave 3
+
+
     },
     ["Crafted"] = {
         -- ID,	--Item name
