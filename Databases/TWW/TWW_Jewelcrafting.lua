@@ -31,7 +31,7 @@ local db = {
        215236, -- Vicious Bloodstone
        212505, -- Extravagant Emerald
     },
-    ["Vendor"] = {
+    ["Fragments"] = {
         212498, -- Ambivalent amber
         213398, -- Handful of Pebbles
         213399, -- Glittering Glass
