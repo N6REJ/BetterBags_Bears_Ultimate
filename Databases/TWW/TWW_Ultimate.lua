@@ -107,6 +107,33 @@ local db = {
         383551, -- Chef's Smooth Rolling Pin
         376548, -- Master's Wildercloth Chef's Hat
         383552, -- Chef's Splendid Rolling Pin
+        --Enchanting
+        376549, -- Wildercloth Enchanter's Hat
+        374537, -- Chromatic Focus
+        394189, -- Runed Serevite Rod
+        390823, -- Runed Draconium Rod
+        376550, -- Master's Wildercloth Enchanter's Hat
+        374543, -- Resonant Focus
+        3908225, -- Runed Khaz'gorite Rod
+        -- Engineering
+        382398, -- Draconium Brainwave Amplifier
+        375185, -- Protective Gloves
+        382397, -- Draconium Encased Samophlange
+        382400, -- Khaz'gorite Brainwave Amplifier
+        375193, -- Shockproof Gloves
+        382399, -- Khaz'gorite Encased Samophlange
+        -- Fishing
+        376551, -- Wildercloth Fishing Cap
+        382394, -- Draconium Fisherfriend
+        376552, -- Master's Wildercloth Fishing Cap
+        382329, -- Khaz'gorite Fisherfriend
+        -- Herbalisim
+        376553, -- Wildercloth Gardening Hat
+        375181, -- Floral Basket
+        371343, -- Draconium Sickle
+        376554, -- Master's Wildercloth Gardening Hat
+        375189, -- Lavish Floral Pack
+        371365, -- Khaz'gorite Sickle
     }
 }
 -- now that db is populated lets pass it on.
