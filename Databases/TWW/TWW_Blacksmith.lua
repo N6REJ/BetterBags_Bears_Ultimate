@@ -7,7 +7,7 @@ local _, addonTable = ...
 -- Database
 
 local db = {
-    ["Crafted"] = {
+    ["Metal"] = {
         -- ID,	--Item name
         222417, -- Core Alloy
         222418, -- Core Alloy
