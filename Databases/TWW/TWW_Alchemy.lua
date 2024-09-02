@@ -24,7 +24,6 @@ local db = {
         210803,    -- Orbinid 2
         210804,    -- Orbinid 3
         213197, -- Null Lotus
-        213613, -- Leyline Residue
         213612, -- Viridescent Spores
     },
     ["Crafted"] = {

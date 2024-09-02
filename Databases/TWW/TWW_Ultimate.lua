@@ -86,6 +86,27 @@ local db = {
     },
     ["Currency"] = {
         210814, -- Artisan's Acuity
+    },
+    ["Tools"] = {
+        --alchemy
+        375188, -- Alchemists Hat
+        376543, -- Wildercloth Alchemist's Robe
+        383549, -- Alchemist's Sturdy Mixing Rod
+        375196, -- Expert Alchemist's Hat
+        376544, -- Master's Wildercloth Alchemist's Robe
+        383550, -- Alchemist's Brilliant Mixing Rod
+        --blacksmith
+        371364, -- Draconium Blacksmith's Toolbox
+        375187, -- Smithing Apron
+        371344, -- Draconium Blacksmith's Hammer
+        371374, -- Khaz'gorite Blacksmith's Toolbox
+        375195, -- Flameproof Apron
+        371412, -- Khaz'garite Blacksmith's Hammer
+        --Cooking
+        376547, -- Wildercloth Chef's Hat
+        383551, -- Chef's Smooth Rolling Pin
+        376548, -- Master's Wildercloth Chef's Hat
+        383552, -- Chef's Splendid Rolling Pin
     }
 }
 -- now that db is populated lets pass it on.

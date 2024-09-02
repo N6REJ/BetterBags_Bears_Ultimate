@@ -31,6 +31,8 @@ local db = {
         221754, -- Ringing Deeps Ingot
         213611, -- Writhing Sample
         213610, -- Crystalline Powder
+        213613, -- Leyline Residue
+
     }
 }
 -- now that db is populated lets pass it on.
