@@ -34,6 +34,7 @@ Databases/TWW/TWW_Engineering.lua
 Databases/TWW/TWW_Fishing.lua
 Databases/TWW/TWW_Inscription.lua
 Databases/TWW/TWW_Jewelcrafting.lua
+Databases/TWW/TWW_Knowledge.lua
 Databases/TWW/TWW_Leatherworking.lua
 Databases/TWW/TWW_Mining.lua
 Databases/TWW/TWW_Tailoring.lua

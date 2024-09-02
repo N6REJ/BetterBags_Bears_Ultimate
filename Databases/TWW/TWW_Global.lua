@@ -24,7 +24,7 @@ local db = {
         217707, -- Imperfect Null Stone
         221754, -- Ringing Deeps Ingot
     },
-    ["Special"] = {
+    ["Global"] = {
         -- ID,	--Item name
         221756, -- Vial of Kaheti Oils
         221758, -- Profaned Tinderbox
