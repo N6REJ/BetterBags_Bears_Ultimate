@@ -240,7 +240,7 @@ local db = {
         212775, -- zzOldFleeting Flask of Tempered Aggression
         212777, -- zzOldFleeting Flask of Tempered Aggression
     },
-    ["Potion"] = {
+    ["Pots"] = {
         211878, -- Algari Healing Potion
         211879, -- Algari Healing Potion
         211880, -- Algari Healing Potion
