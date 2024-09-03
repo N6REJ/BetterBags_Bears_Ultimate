@@ -38,6 +38,24 @@ local db = {
         -- ID,	--Item name
         219150, -- Pile of Rusted Scrap
 
+    },
+
+    -- to craft the Crowd Pummeler 2-30.
+    ["Parts"] = {
+        227770, -- Assorted Whirligigs
+        227771, -- Blinker Fluid
+        227769, -- Bountiful Bolts
+        227772, -- Cataclysmic Converter
+        221865, -- Chaos Circuit
+        221868, -- Entropy Enhancer
+        221859, -- Gyrating Gear
+        221853, -- Handful of Bismuth Bolts
+        219150, -- Pile of Rusted Scrap
+        227774, -- Pummel Permit
+        227773, -- Pummel-Proof Plating
+        221862, -- Safety Switch
+        221856, -- Whimsical Wiring
+
     }
 }
 -- now that db is populated lets pass it on.
