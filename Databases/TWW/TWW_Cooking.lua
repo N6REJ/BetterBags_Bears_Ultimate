@@ -39,8 +39,12 @@ local db = {
         225568, -- Slum Shark Scrap
         222738, -- Portioned Steak
         222739, -- Spiced Meat Stock
-
-
+    },
+    ["snacks"] = {
+        222703, -- Simple Stew
+        222705, -- Roasted Mycobloom
+        222702, -- Skewered Filet
+        222704, -- Unseasoned Field Steak
     }
 }
 -- now that db is populated lets pass it on.
