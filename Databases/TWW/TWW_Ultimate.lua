@@ -67,6 +67,7 @@ local db = {
         224025, -- Crackling Shard
         212493, -- Odd Glob of Wax
         223951, -- Earth-Encrusted Gem
+        225767, -- Spare Toolbox
     },
     ["Seeds"] = {
         -- Seeds
