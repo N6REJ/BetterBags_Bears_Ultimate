@@ -285,6 +285,12 @@ local db = {
         212752, -- Algari Potion Cauldron
         212753, -- Algari Potion Cauldron
     },
+    ["Food"] = {
+        -- Earthen Race
+    228492, -- Spice Rubies
+    228493, -- Sour Topaz Bites
+    228494, -- Crunchy Rock Candy
+    },
 
     -- Darkmoon Deck parts
     ["Cards"] = {
