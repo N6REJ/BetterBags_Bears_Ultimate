@@ -85,6 +85,7 @@ local db = {
         227415, -- Faded Herbalist's Notes
         224656, -- Void-Lit Herbalism Notes
         224817, -- Algari Herbalist's Notes
+        225234, -- Alchemical Sediment
         -- #Inscription
         226308, -- Dornogal Scribe's Quill
         226309, -- Historian's Dip Pen
