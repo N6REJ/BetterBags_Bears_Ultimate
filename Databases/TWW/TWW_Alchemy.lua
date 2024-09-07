@@ -33,7 +33,6 @@ local db = {
         211804, -- Volatile Transmutagen
         211805, -- Gleaming Transmutagen
         210815, -- Coreway Catalyst
-        210828, -- Dilution Solution
         212563, -- Harmonious Horticulture
         212564, -- Harmonious Horticulture
         212565, -- Harmonious Horticulture
@@ -42,6 +41,8 @@ local db = {
         211806, -- Gilded Vial
         211807, -- Gilded Vial
         211808, -- Gilded Vial
+        210828, -- Dilution Solution
+
     },
     ["Alchemy"] = {
         212754, -- Crystalforged Cauldron
