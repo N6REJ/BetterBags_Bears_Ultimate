@@ -32,6 +32,7 @@ local db = {
         213611, -- Writhing Sample
         213610, -- Crystalline Powder
         213613, -- Leyline Residue
+        206350, -- Radiant Remnant
 
     }
 }
