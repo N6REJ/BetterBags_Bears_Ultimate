@@ -68,6 +68,11 @@ local db = {
         212493, -- Odd Glob of Wax
         223951, -- Earth-Encrusted Gem
         225767, -- Spare Toolbox
+        223880, -- Rough Deepamethyst Shard
+        223881, -- Rough Deepemerald Shard
+        223882, -- Rough Deepdiamond Shard
+        223878, -- Rough Deepruby Shard
+        223879, -- Rough Deeptopaz Shard
     },
     ["Seeds"] = {
         -- Seeds
