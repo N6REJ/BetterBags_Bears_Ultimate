@@ -382,6 +382,7 @@ local db = {
     },
     ["Quest"] = {
         206350, -- Radiant Remnant
+        211690, -- Artisan's Consortium Brochure
     }
 }
 -- now that db is populated lets pass it on.
