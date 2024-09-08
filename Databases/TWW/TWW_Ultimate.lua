@@ -384,6 +384,9 @@ local db = {
         206350, -- Radiant Remnant
         211690, -- Artisan's Consortium Brochure
         228228, -- Strange lump of wax
+    },
+    ["Runes"] = {
+        224572, -- Crystallized Augment Rune
     }
 }
 -- now that db is populated lets pass it on.
