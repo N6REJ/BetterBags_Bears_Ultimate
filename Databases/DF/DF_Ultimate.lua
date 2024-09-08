@@ -768,7 +768,7 @@ local db = {
         210244, -- Contract: Dream Wardens
         198505, -- Contract: Artisan's Consortium
     },
-    ["Enhancements"] = {
+    ["Runes"] = {
         -- ID,	--Item name
         194817, -- Howling rune 1
         194819, -- Howling rune 2
