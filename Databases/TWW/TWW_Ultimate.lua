@@ -379,6 +379,9 @@ local db = {
         219675, -- Darkmoon Deck: Vivacity
         222231, -- Darkmoon Deck: Vivacity
         222671, -- Darkmoon Deck: Vivacity
+    },
+    ["Quest"] = {
+        206350, -- Radiant Remnant
     }
 }
 -- now that db is populated lets pass it on.
