@@ -62,6 +62,8 @@ local db = {
         222519, -- Core Framework
         222518, -- Core Framework
         222517, -- Core Framework
+        228338, -- Soul Sigil I
+        228339, -- Soul Sigil II
     },
     ['Turn-In'] = {
         224025, -- Crackling Shard
@@ -349,7 +351,7 @@ local db = {
         222233, -- Two of Vivacity
         222673, -- Two of Vivacity
     },
-    ["Sigil"] = {
+    ["Darkmoon"] = {
         222561, -- Darkmoon Sigil: Ascension
         226022, -- Darkmoon Sigil: Ascension
         226023, -- Darkmoon Sigil: Ascension
