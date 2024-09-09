@@ -177,6 +177,7 @@ local db = {
         227410, -- Faded Tailor's Diagrams
         222547, -- Algari Treatise on Tailoring
         228739, -- Glimmer of Tailoring Knowledge
+        227661, -- Gleaming Telluric Crystal
     }
 }
 -- now that db is populated lets pass it on.
