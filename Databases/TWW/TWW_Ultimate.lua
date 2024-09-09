@@ -95,6 +95,7 @@ local db = {
     ["Currency"] = {
         210814, -- Artisan's Acuity
         229899, -- Coffer Key Shard
+        224642, -- Firelight Ruby
     },
     ["Tools"] = {
         --alchemy
