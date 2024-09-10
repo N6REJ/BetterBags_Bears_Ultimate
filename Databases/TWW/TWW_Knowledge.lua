@@ -56,6 +56,7 @@ local db = {
         227659, -- Fleeting Arcane Manifestation
         222550, -- Algari Treatise on Enchanting
         228729, -- Glimmer of Enchanting Knowledge
+        227662, -- Shimmering Dust
         -- #Engineering
         226293, -- Dornogal Spectacles
         226292, -- Rock Engineer's Wrench
