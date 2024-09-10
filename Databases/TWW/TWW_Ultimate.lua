@@ -85,6 +85,7 @@ local db = {
         214595, -- Sporefused Verdant Seed
         214597, -- Irradiated Verdant Seed
         214605, -- Crystallized Verdant Seed
+        211947, -- Harvest Seed Supply
     },
     ["Sparks"] = {
         228224, -- Spark of Legacies
