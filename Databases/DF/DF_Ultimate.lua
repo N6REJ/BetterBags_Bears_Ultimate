@@ -798,6 +798,7 @@ local db = {
         198162, -- Completely Safe Rockets 3
         211495, -- Dreambound Augment Rune
         201325, -- Draconic Augment Rune
+        211495, -- Dreambound Augment Rune
     },
     ["Currency"] = {
         -- ID    = true,    --Item name
