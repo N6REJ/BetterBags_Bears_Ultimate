@@ -250,6 +250,10 @@ local db = {
         212776, -- zzOldFleeting Flask of Tempered Aggression
         212775, -- zzOldFleeting Flask of Tempered Aggression
         212777, -- zzOldFleeting Flask of Tempered Aggression
+        224107, -- Algari Mana Oil
+        212263, -- Tempered Potion
+        212264, -- Tempered Potion
+        212265, -- Tempered Potion
     },
     ["Pots"] = {
         211878, -- Algari Healing Potion
@@ -283,9 +287,6 @@ local db = {
         212245, -- Slumbering Soul Serum
         212246, -- Slumbering Soul Serum
         212247, -- Slumbering Soul Serum
-        212263, -- Tempered Potion
-        212264, -- Tempered Potion
-        212265, -- Tempered Potion
     },
     ["Cauldron"] = {
         212719, -- Algari Flask Cauldron
