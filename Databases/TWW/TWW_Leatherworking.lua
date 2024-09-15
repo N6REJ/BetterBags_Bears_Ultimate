@@ -55,6 +55,15 @@ local db = {
         219901, -- Storm-Touched Weapon Wrap
         219902, -- Storm-Touched Weapon Wrap
         219903, -- Storm-Touched Weapon Wrap
+    },
+    ["Embellishment"] = {
+            -- ID,	--Item name
+           219504, -- Writhing Armor Band 1
+           219505, -- Writhing Armor Band 2
+           219506, -- Writhing Armor Band 3
+           219495, -- Blessed Weapon Grip 1
+           219496, -- Blessed Weapon Grip 2
+           219497, -- Blessed Weapon Grip 3
     }
 }
 -- now that db is populated lets pass it on.

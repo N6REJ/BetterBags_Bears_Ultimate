@@ -35,8 +35,18 @@ local db = {
     ["Fragments"] = {
         213398, -- Handful of Pebbles
         213399, -- Glittering Glass
-
-    }
+    },
+    ["Embellishment"] = {
+            213768, -- Elemental Focusing Lens 1
+            213769, -- Elemental Focusing Lens 2
+            213770, -- Elemental Focusing Lens 3
+            213774, -- Captured Starlight 1
+            213775, -- Captured Starlight 2
+            213776, -- Captured Starlight 3
+            213771, -- Prismatic Null Stone 1
+            213772, -- Prismatic Null Stone 2
+            213773, -- Prismatic Null Stone 3
+      }
 }
 -- now that db is populated lets pass it on.
 addonTable.Database.TWWJewelcrafting = db
