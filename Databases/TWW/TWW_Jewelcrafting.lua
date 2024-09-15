@@ -9,6 +9,7 @@ local _, addonTable = ...
 local db = {
     ["Jewelcrafting"] = {
         -- ID,	--Item name
+       212498, -- Ambivalent Amber
        213753, -- Decorative Lens
        213755, -- Decorative Lens
        213754, -- Decorative Lens
@@ -32,7 +33,6 @@ local db = {
        212505, -- Extravagant Emerald
     },
     ["Fragments"] = {
-        212498, -- Ambivalent amber
         213398, -- Handful of Pebbles
         213399, -- Glittering Glass
 
