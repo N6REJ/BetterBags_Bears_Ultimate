@@ -55,7 +55,17 @@ local db = {
         227773, -- Pummel-Proof Plating
         221862, -- Safety Switch
         221856, -- Whimsical Wiring
-
+    },
+    ["Embellishment"] = {
+            221941, -- Energy Redistribution Beacon 1
+            221942, -- Energy Redistribution Beacon 2
+            221943, -- Energy Redistribution Beacon 3
+            221935, -- Pouch of Pocket Grenades 1
+            221936, -- Pouch of Pocket Grenades 2
+            221937, -- Pouch of Pocket Grenades 3
+            221938, -- Concealed Chaos Module 1
+            221939, -- Concealed Chaos Module 2
+            221940, -- Concealed Chaos Module 3
     }
 }
 -- now that db is populated lets pass it on.
