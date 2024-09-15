@@ -64,6 +64,7 @@ local db = {
            219495, -- Blessed Weapon Grip 1
            219496, -- Blessed Weapon Grip 2
            219497, -- Blessed Weapon Grip 3
+    }
 }
 -- now that db is populated lets pass it on.
 addonTable.Database.TWWLeatherworking = db

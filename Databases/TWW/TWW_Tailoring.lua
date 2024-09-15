@@ -76,7 +76,6 @@ local db = {
             222871, -- Duskthread Lining 1
             222872, -- Duskthread Lining 2
             222873, -- Duskthread Lining 3
-
     }
 }
 -- now that db is populated lets pass it on.
