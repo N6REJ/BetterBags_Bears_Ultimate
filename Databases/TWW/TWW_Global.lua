@@ -86,12 +86,19 @@ local db = {
             222519, -- Core Framework
             222518, -- Core Framework
             222517, -- Core Framework
-            228338, -- Soul Sigil I
-            228339, -- Soul Sigil II
         },
         ["Optional"] = {
                     -- ID,	--Item name
                     210221, -- Forged Combatant's Heraldry
+                    210233, -- Forged Gladiator's Heraldry
+                    224072, -- Enchanted Runed Harbinger Crest
+                    224073, -- Enchanted Gilded Harbinger Crest
+                    224069, -- Enchanted Weathered Harbinger Crest
+                    210232, -- Forged Aspirant's Heraldry
+                    228338, -- Soul Sigil I
+                    228339, -- Soul Sigil II
+
+        }
 
 }
 -- now that db is populated lets pass it on.

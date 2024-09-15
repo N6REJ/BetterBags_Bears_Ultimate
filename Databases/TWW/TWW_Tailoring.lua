@@ -68,6 +68,14 @@ local db = {
     },
     ["Vendor"] = {
         224764, -- Mosswool Thread
+    },
+    ["Embellishment"] = {
+            222868, -- Dawnthread Lining 1
+            222869, -- Dawnthread Lining 2
+            222870, -- Dawnthread Lining 3
+            222871, -- Duskthread Lining 1
+            222872, -- Duskthread Lining 2
+            222873, -- Duskthread Lining 3
 
     }
 }
