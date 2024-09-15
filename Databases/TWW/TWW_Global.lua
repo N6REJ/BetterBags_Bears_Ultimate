@@ -92,6 +92,7 @@ local db = {
         ["Optional"] = {
                     -- ID,	--Item name
                     210221, -- Forged Combatant's Heraldry
+
 }
 -- now that db is populated lets pass it on.
 addonTable.Database.TWWGlobal = db

@@ -56,7 +56,33 @@ local db = {
         222555, -- Codified Greenwood
         222556, -- Codified Greenwood
         222557, -- Codified Greenwood
-    }
+    },
+    ["Embellishment"] = {
+            222561, -- Darkmoon Sigil: Ascension
+            226022, -- Darkmoon Sigil: Ascension
+            226023, -- Darkmoon Sigil: Ascension
+            226024, -- Darkmoon Sigil: Ascension
+            222562, -- Darkmoon Sigil: Radiance
+            226025, -- Darkmoon Sigil: Radiance
+            226026, -- Darkmoon Sigil: Radiance
+            226027, -- Darkmoon Sigil: Radiance
+            219561, -- Darkmoon Sigil: Symbiosis
+            219562, -- Darkmoon Sigil: Symbiosis
+            219563, -- Darkmoon Sigil: Symbiosis
+            222126, -- Darkmoon Sigil: Symbiosis
+            222563, -- Darkmoon Sigil: Symbiosis
+            226028, -- Darkmoon Sigil: Symbiosis
+            226029, -- Darkmoon Sigil: Symbiosis
+            226030, -- Darkmoon Sigil: Symbiosis
+            219564, -- Darkmoon Sigil: Vivacity
+            219565, -- Darkmoon Sigil: Vivacity
+            219566, -- Darkmoon Sigil: Vivacity
+            222127, -- Darkmoon Sigil: Vivacity
+            222564, -- Darkmoon Sigil: Vivacity
+            226031, -- Darkmoon Sigil: Vivacity
+            226032, -- Darkmoon Sigil: Vivacity
+            226033, -- Darkmoon Sigil: Vivacity
+        }
 }
 -- now that db is populated lets pass it on.
 addonTable.Database.TWWInscription = db
