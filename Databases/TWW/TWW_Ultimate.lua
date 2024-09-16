@@ -313,6 +313,12 @@ local db = {
     },
     ["Runes"] = {
         224572, -- Crystallized Augment Rune
+    },
+    ["Food"] = {
+        222751, -- Hearty Simple Stew
+    },
+    ["Oil"] = {
+        224106, -- Algari Mana Oil
     }
 }
 -- now that db is populated lets pass it on.
