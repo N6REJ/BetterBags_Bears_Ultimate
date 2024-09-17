@@ -248,62 +248,42 @@ local db = {
     ["Cards"] = {
         222681, -- Ace of Ascension
         222663, -- Ace of Radiance
-        222214, -- Ace of Symbiosis
         222654, -- Ace of Symbiosis
-        222232, -- Ace of Vivacity
         222672, -- Ace of Vivacity
         222688, -- Eight of Ascension
         222670, -- Eight of Radiance
-        222221, -- Eight of Symbiosis
         222661, -- Eight of Symbiosis
-        222239, -- Eight of Vivacity
         222679, -- Eight of Vivacity
         222685, -- Five of Ascension
         222667, -- Five of Radiance
-        222218, -- Five of Symbiosis
         222658, -- Five of Symbiosis
-        222236, -- Five of Vivacity
         222676, -- Five of Vivacity
         222684, -- Four of Ascension
         222666, -- Four of Radiance
-        222217, -- Four of Symbiosis
         222657, -- Four of Symbiosis
-        222235, -- Four of Vivacity
         222675, -- Four of Vivacity
         222687, -- Seven of Ascension
         222669, -- Seven of Radiance
-        222220, -- Seven of Symbiosis
         222660, -- Seven of Symbiosis
-        222238, -- Seven of Vivacity
         222678, -- Seven of Vivacity
         222686, -- Six of Ascension
         222668, -- Six of Radiance
-        222219, -- Six of Symbiosis
         222659, -- Six of Symbiosis
-        222237, -- Six of Vivacity
         222677, -- Six of Vivacity
         222683, -- Three of Ascension
         222665, -- Three of Radiance
-        222216, -- Three of Symbiosis
         222656, -- Three of Symbiosis
-        222234, -- Three of Vivacity
         222674, -- Three of Vivacity
         222682, -- Two of Ascension
         222664, -- Two of Radiance
-        222215, -- Two of Symbiosis
         222655, -- Two of Symbiosis
-        222233, -- Two of Vivacity
         222673, -- Two of Vivacity
     },
     ["Trinket"] = {
         219673, -- Darkmook Deck: Symbiosis
         222680, -- Darkmoon Deck: Ascension
         219672, -- Darkmoon Deck: Radiance
-        220171, -- Darkmoon Deck: Symbiosis
-        222213, -- Darkmoon Deck: Symbiosis
         222653, -- Darkmoon Deck: Symbiosis
-        219675, -- Darkmoon Deck: Vivacity
-        222231, -- Darkmoon Deck: Vivacity
         222671, -- Darkmoon Deck: Vivacity
     },
     ["Quest"] = {
