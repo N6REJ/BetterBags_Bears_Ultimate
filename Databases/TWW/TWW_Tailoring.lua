@@ -60,7 +60,7 @@ local db = {
         224824, -- Duskweave 1
         228233, -- Duskweave 2
         228234, -- Duskweave 3
-
+        168130, -- Essence of the Depths
     },
     ["Crafted"] = {
         -- ID,	--Item name
