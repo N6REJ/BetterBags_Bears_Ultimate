@@ -21,6 +21,9 @@ local db = {
         -- ID    = true,    --Item name
         137642, -- Mark of Honor
         1602, -- Conquest
+    },
+    ["Elixir"] = {
+        116271, -- Draenic Water Breathing Elixir
     }
 }
 -- now that db is populated lets pass it on.
