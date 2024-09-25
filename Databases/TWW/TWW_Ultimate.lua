@@ -293,6 +293,7 @@ local db = {
     },
     ["Runes"] = {
         224572, -- Crystallized Augment Rune
+        211495, -- Dreambound Augment Rune
     },
     ["Food"] = {
         222751, -- Hearty Simple Stew
