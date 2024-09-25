@@ -57,9 +57,9 @@ local db = {
         224826, -- Dawnweave 1
         228238, -- Dawnweave 2
         228236, -- Dawnweave 3
-        224824, -- Duskweave 1
-        228233, -- Duskweave 2
-        228234, -- Duskweave 3
+        224826, -- Duskweave 1
+        228235, -- Duskweave 2
+        228236, -- Duskweave 3
         168130, -- Essence of the Depths
     },
     ["Crafted"] = {
