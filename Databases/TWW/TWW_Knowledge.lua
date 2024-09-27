@@ -87,6 +87,7 @@ local db = {
         224656, -- Void-Lit Herbalism Notes
         224817, -- Algari Herbalist's Notes
         225234, -- Alchemical Sediment
+        224265, -- Deepgrove rose
         -- #Inscription
         226308, -- Dornogal Scribe's Quill
         226309, -- Historian's Dip Pen
