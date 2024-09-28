@@ -180,6 +180,51 @@ local db = {
         222547, -- Algari Treatise on Tailoring
         228739, -- Glimmer of Tailoring Knowledge
         227661, -- Gleaming Telluric Crystal
+        -- #Artisan's Acuity
+        224645, -- Jewel-Etched Alchemy Notes
+        224647, -- Jewel-Etched Blacksmithing Notes
+        224648, -- Jewel-Etched Tailoring Notes
+        224651, -- Machine-Learned Mining Notes
+        224652, -- Jewel-Etched Enchanting Notes
+        224653, -- Machine-Learned Engineering Notes
+        224654, -- Machine-Learned Inscription Notes
+        224655, -- Void-Lit Jewelcrafting Notes
+        224656, -- Void-Lit Herbalism Notes
+        224657, -- Void-Lit Skinning Notes
+        224658, -- Void-Lit Leatherworking Notes
+        227407, -- Faded Blacksmith's Diagrams
+        227408, -- Faded Scribe's Runic Drawings
+        227409, -- Faded Alchemist's Research
+        227410, -- Faded Tailor's Diagrams
+        227411, -- Faded Enchanter's Research
+        227412, -- Faded Engineer's Scribblings
+        227413, -- Faded Jeweler's Illustrations
+        227414, -- Faded Leatherworker's Diagrams
+        227415, -- Faded Herbalist's Notes
+        227416, -- Faded Miner's Notes
+        227417, -- Faded Skinner's Notes
+        227418, -- Exceptional Blacksmith's Diagrams
+        227419, -- Exceptional Scribe's Runic Drawings
+        227420, -- Exceptional Alchemist's Research
+        227421, -- Exceptional Tailor's Diagrams
+        227422, -- Exceptional Enchanter's Research
+        227423, -- Exceptional Engineer's Scribblings
+        227424, -- Exceptional Jeweler's Illustrations
+        227425, -- Exceptional Leatherworker's Diagrams
+        227426, -- Exceptional Herbalist's Notes
+        227427, -- Exceptional Miner's Notes
+        227428, -- Exceptional Skinner's Notes
+        227429, -- Pristine Blacksmith's Diagrams
+        227430, -- Pristine Scribe's Runic Drawings
+        227431, -- Pristine Alchemist's Research
+        227432, -- Pristine Tailor's Diagrams
+        227433, -- Pristine Enchanter's Research
+        227434, -- Pristine Engineer's Scribblings
+        227435, -- Pristine Jeweler's Illustrations
+        227436, -- Pristine Leatherworker's Diagrams
+        227437, -- Pristine Herbalist's Notes
+        227438, -- Pristine Miner's Notes
+        227439, -- Pristine Skinner's Notes
     }
 }
 -- now that db is populated lets pass it on.
