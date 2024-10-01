@@ -55,7 +55,7 @@ local db = {
         222799, -- Duskweave Bolt
         222800, -- Duskweave Bolt
         224826, -- Dawnweave 1
-        228238, -- Dawnweave 2
+        228235, -- Dawnweave 2
         228236, -- Dawnweave 3
         224824, -- Duskweave 1
         228233, -- Duskweave 2
