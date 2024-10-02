@@ -24,6 +24,7 @@ local db = {
         227409, -- Faded Alchemist's Research
         224645, -- Jewel-Etched Alchemy Notes
         228725, -- Glimmer of Alchemy Knowledge
+        228724, -- Flicker of Alchemy Knowledge
         -- #Blacksmithing
         226277, -- Dornogal Hammer
         226276, -- Ancient Earthen Anvil
