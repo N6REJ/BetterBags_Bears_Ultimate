@@ -195,6 +195,7 @@ local db = {
         212263, -- Tempered Potion
         212264, -- Tempered Potion
         212265, -- Tempered Potion
+        212721, -- Algari Flask Cauldron
     },
     ["Pots"] = {
         211878, -- Algari Healing Potion
@@ -228,6 +229,7 @@ local db = {
         212245, -- Slumbering Soul Serum
         212246, -- Slumbering Soul Serum
         212247, -- Slumbering Soul Serum
+        212753, -- Algari Potion Cauldron
     },
     ["Cauldron"] = {
         212719, -- Algari Flask Cauldron
