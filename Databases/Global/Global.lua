@@ -24,6 +24,10 @@ local db = {
     },
     ["Elixir"] = {
         116271, -- Draenic Water Breathing Elixir
+    },
+
+    ["Tools"] = {
+        197861, -- Fleeting Philosopher's Stone
     }
 }
 -- now that db is populated lets pass it on.
