@@ -229,7 +229,7 @@ local db = {
         212245, -- Slumbering Soul Serum
         212246, -- Slumbering Soul Serum
         212247, -- Slumbering Soul Serum
-        212753, -- Algari Potion Cauldron
+        212754, -- Algari Potion Cauldron
     },
     ["Cauldron"] = {
         212719, -- Algari Flask Cauldron
