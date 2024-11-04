@@ -25,6 +25,8 @@ local db = {
         224645, -- Jewel-Etched Alchemy Notes
         228725, -- Glimmer of Alchemy Knowledge
         228724, -- Flicker of Alchemy Knowledge
+        225234, -- Alchemical Sediment
+
         -- #Blacksmithing
         226277, -- Dornogal Hammer
         226276, -- Ancient Earthen Anvil
@@ -40,6 +42,7 @@ local db = {
         222554, -- Algari Treatise on Blacksmithing
         228727, -- Glimmer of Blacksmithing Knowledge
         198791, -- Glimmer of Blacksmithing Wisdom
+        225232, -- Coreway Billet
         -- #Enchanting
         226285, -- Silver Dornogal Rod
         226284, -- Grinded Earthen Gem
@@ -59,6 +62,7 @@ local db = {
         228729, -- Glimmer of Enchanting Knowledge
         227662, -- Shimmering Dust
         -- #Engineering
+        222621, -- Algari Treatise on Engineering
         226293, -- Dornogal Spectacles
         226292, -- Rock Engineer's Wrench
         226295, -- Earthen Construct Blueprints
@@ -71,6 +75,8 @@ local db = {
         227412, -- Faded Engineer's Scribblings
         224653, -- Machine-Learned Engineering Notes
         228731, -- Glimmer of Engineering Knowledge
+        225228, -- Rust-Locked Mechanism
+        225229, -- Earthen Induction Coil
         -- #Herbalism
         226301, -- Dornogal Gardening Scythe
         226300, -- Ancient Flower
@@ -87,7 +93,6 @@ local db = {
         227415, -- Faded Herbalist's Notes
         224656, -- Void-Lit Herbalism Notes
         224817, -- Algari Herbalist's Notes
-        225234, -- Alchemical Sediment
         224265, -- Deepgrove rose
         -- #Inscription
         226308, -- Dornogal Scribe's Quill
@@ -102,7 +107,9 @@ local db = {
         225227, -- Wax-Sealed Records
         224053, -- Eight Views on Defense against Hostile Runes
         228733, -- Glimmer of Inscription Knowledge
+        225226, -- Striated Inkstone
         -- #Jewelcrafting
+        225224, -- Diaphanous Gem Shards
         226317, -- Earthen Gem Pliers
         226316, -- Gentle Jewel Hammer
         226319, -- Jeweler's Delicate Drill
