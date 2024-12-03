@@ -38,6 +38,7 @@ local db = {
         210814, -- Artisan's Acuity
         229899, -- Coffer Key Shard
         224642, -- Firelight Ruby
+        220769, -- Algari Token of Merit
     },
     ["Tools"] = {
         --alchemy
