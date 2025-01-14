@@ -7,7 +7,7 @@ local _, addonTable = ...
 -- Database
 
 local db = {
-    ["Engineering"] = {
+    ["Parts"] = {
         221865, -- Chaos Circuit
         221866, -- Chaos Circuit
         221867, -- Chaos Circuit
@@ -32,29 +32,14 @@ local db = {
         227772, -- Cataclysmic Converter
         227773, -- Pummel-Proof Plating
         227774, -- Pummel Permit
+        219150, -- Pile of Rusted Scrap
     },
 
     ["Vendor"] = {
         -- ID,	--Item name
-        219150, -- Pile of Rusted Scrap
+        228414, -- Frayed Wiring
+        228956, -- Junk Bucket
 
-    },
-
-    -- to craft the Crowd Pummeler 2-30.
-    ["Parts"] = {
-        227770, -- Assorted Whirligigs
-        227771, -- Blinker Fluid
-        227769, -- Bountiful Bolts
-        227772, -- Cataclysmic Converter
-        221865, -- Chaos Circuit
-        221868, -- Entropy Enhancer
-        221859, -- Gyrating Gear
-        221853, -- Handful of Bismuth Bolts
-        219150, -- Pile of Rusted Scrap
-        227774, -- Pummel Permit
-        227773, -- Pummel-Proof Plating
-        221862, -- Safety Switch
-        221856, -- Whimsical Wiring
     },
     ["Embellishment"] = {
             221941, -- Energy Redistribution Beacon 1
