@@ -31,3 +31,6 @@ and more are included.
 If something is not here that you feel would be a good fit or if you find a bug, feel free to create an [Issue](http://github.com/N6REJ/BetterBags_Bears_Ultimate/issues)
 
 NOTE:  Raid type "phials" are called <i>flasks</i> in TWW and <i>phials</i> are special purpose flasks
+
+## Statistics
+![Alt](https://repobeats.axiom.co/api/embed/babecfa1443e58b3183437dcbdff64466fe5d403.svg "Repobeats analytics image")
