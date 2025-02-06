@@ -304,6 +304,7 @@ local db = {
         222733, -- Feast of the Midnight Masquerade
         228721, -- Hearty Feast
         222783, -- Hearty Everything Stew
+        222784, -- Hearty Chippy Tea
     },
     ["Oil"] = {
         224106, -- Algari Mana Oil
