@@ -7,7 +7,7 @@ local _, addonTable = ...
 -- Database
 
 local db = {
-    ["Pet Items"] = {
+    ["Pet: Items"] = {
         -- ID		-- Item name
         37431, -- Fetch Ball
         43352, -- Pet Grooming Kit
@@ -35,7 +35,7 @@ local db = {
         183112, -- Animated Radius
         183113, -- Flexing Phalanges
     },
-    ["Pet Eggs"] = {
+    ["Pet: Eggs"] = {
         -- ID		-- Item name
         21310, -- Gaily Wrapped Present
         39878, -- Mysterious Egg
@@ -46,7 +46,7 @@ local db = {
         153191, -- Cracked Fel-Spotted Egg
         182607, -- Hairy Egg
     },
-    ["Pet Currency"] = {
+    ["Pet: Currency"] = {
         -- ID		-- Item name
         101529, -- Celestial Coin
         116415, -- Shiny Pet Charm
@@ -56,7 +56,7 @@ local db = {
         169665, -- Cleansed Remains
         174360, -- Shadowy Gem
     },
-    ["Pet Supplies"] = {
+    ["Pet: Supplies"] = {
 
         -- ID		-- Item name
         89125, -- Sack of Pet Supplies
@@ -78,7 +78,7 @@ local db = {
         146317, -- Mr. Smite's Supplies
         151638, -- Leprous Sack of Pet Supplies
     },
-    ["Pet Stones"] = {
+    ["Pet: Stones"] = {
 
         -- ID		-- Item name
         92741, -- Flawless Battle-Stone
@@ -108,7 +108,7 @@ local db = {
         122457, -- Ultimate Battle-Training Stone
         127755, -- Fel-Touched Battle-Training Stone
     },
-    ["Pet Toys"] = {
+    ["Pet: Toys"] = {
 
         -- ID		-- Item name
         44820, -- Red Ribbon Pet Leash
@@ -125,7 +125,7 @@ local db = {
         163705, -- Imaginary Gun
         174925, -- Void Tendril Pet Leash
     },
-    ["Pet Costumes"] = {
+    ["Pet: Costumes"] = {
 
         -- ID		-- Item name
         103786, -- "Dapper Gentleman" Costume
@@ -138,12 +138,20 @@ local db = {
         116812, -- "Yipp-Saron" Costume
         128650, -- "Merry Munchkin" Costume
     },
-    ["Pets: Chip"] = {
+    ["Pet: Chip"] = {
         -- ID		-- Item name
         -- Reagents for "chip"
         199219, -- Element-Infused Blood
         198082, -- Pre-Sentient Rock Cluster
         198357, -- Rock of Aegis
+    },
+        -- Gorillion Pet
+    ["Gorillion: Engine"] = {
+        234432, -- Gorillion Engine
+        234433, -- Gorillion Chassis
+        234431, -- Gorillion Batteries
+        234430, -- Gorillion Grease
+        234427, -- Gorillion Fork
     }
 }
 

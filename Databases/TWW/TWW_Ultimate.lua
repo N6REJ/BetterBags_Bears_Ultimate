@@ -308,6 +308,52 @@ local db = {
     },
     ["Oil"] = {
         224106, -- Algari Mana Oil
+    },
+    ["Turbo: Handcrank"] = {
+        470934, -- Handcrank Fuel Tank
+        234386, -- Handcrank Fuel Injector
+        234415, -- Handcrank Casing
+        234417, -- Handcrank Gears
+        234420, -- Handcrank Mounting System
+    },
+    ["Turbo: Steamboil"] = {
+        234380, -- Steamboil Fuel Tank
+        234387, -- Steamboil Fuel Injector
+        234416, -- Steamboil Casing
+        234418, -- Steamboil Gears
+        234419, -- Steamboil Mounting System
+    },
+    ["Sparks"] = {
+        211297, -- Fractured Spark of Omens
+        211296, -- Spark of Omens
+        230905, -- Fractured Spark of Fortunes
+        230906, -- Spark of Fortunes
+    },
+    ["Crests"] = {
+        220788, -- Nascent Weathered Harbinger Crest
+        220790, -- Nascent Runed Harbinger Crest
+        220789, -- Nascent Gilded Harbinger Crest
+        224069, -- Enchanted Weathered Harbinger Crest
+        224072, -- Enchanted Runed Harbinger Crest
+        224073, -- Enchanted Gilded Harbinger Crest
+        230987, -- Nascent Weathered Undermine Crest
+        230985, -- Nascent Runed Undermine Crest
+        230986, -- Nascent Gilded Undermine Crest
+        230937, -- Enchanted Weathered Undermine Crest
+        230936, -- Enchanted Runed Undermine Crest
+        230935, -- Enchanted Gilded Undermine Crest
+        236924, -- Pouch of Weathered Harbinger Crests
+        236925, -- Satchel of Carved Harbinger Crests
+        236921, -- Triumphant Satchel of Carved Harbinger Crests
+        236922, -- Celebratory Pack of Runed Harbinger Crests
+        236926, -- Pack of Runed Harbinger Crests
+        236923, -- Glorious Cluster of Gilded Harbinger Crests
+        231267, -- Pouch of Weathered Undermine Crests
+        231153, -- Triumphant Satchel of Carved Undermine Crests
+        231269, -- Satchel of Carved Undermine Crests
+        231154, -- Celebratory Pack of Runed Undermine Crests
+        231270, -- Pack of Runed Undermine Crests
+        231264, -- Glorious Cluster of Gilded Undermine Crests
     }
 }
 -- now that db is populated lets pass it on.
