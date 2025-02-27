@@ -310,7 +310,7 @@ local db = {
         224106, -- Algari Mana Oil
     },
     ["Turbo: Handcrank"] = {
-        470934, -- Handcrank Fuel Tank
+        234381, -- Handcrank Fuel Tank
         234386, -- Handcrank Fuel Injector
         234415, -- Handcrank Casing
         234417, -- Handcrank Gears
