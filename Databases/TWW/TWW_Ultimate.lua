@@ -40,6 +40,7 @@ local db = {
         224642, -- Firelight Ruby
         220769, -- Algari Token of Merit
         21100,  -- Coin of Ancestry
+        236096, -- Coffer Key Shard
     },
     ["Tools"] = {
         --alchemy
