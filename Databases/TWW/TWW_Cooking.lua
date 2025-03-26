@@ -40,8 +40,18 @@ local db = {
         222738, -- Portioned Steak
         222739, -- Spiced Meat Stock
     },
-    ["Food"] = {
+    ["Feast"] = {
+        222732, -- Feast of the Divine Day
+        222733, -- Feast of the Midnight Masquerade
+        228721, -- Hearty Feast
+        222783, -- Hearty Everything Stew
+        222784, -- Hearty Chippy Tea
+        222776, -- Hearty Beledar's Bounty
         222751, -- Hearty Simple Stew
+        222752, -- Hearty Unseasoned Field Steak
+
+    },
+    ["Food"] = {
         225592, -- Exquisitely Eviscerated Muscle
         222702, -- Skewered Fillet
         222703, -- Simple Stew
@@ -84,7 +94,12 @@ local db = {
         223970, -- Little Buddy Biscuits
         223971, -- Azj-Kahet Special
         225855, -- Ghoulfish Delight
-        222776, -- Hearty Beledar's Bounty
+        233062, -- Pocket Pizza
+
+                -- Earthen Race
+        228492, -- Spice Rubies
+        228493, -- Sour Topaz Bites
+        228494, -- Crunchy Rock Candy
     }
 }
 -- now that db is populated lets pass it on.

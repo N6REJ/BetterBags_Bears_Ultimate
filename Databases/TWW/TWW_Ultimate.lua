@@ -240,14 +240,7 @@ local db = {
         212752, -- Algari Potion Cauldron
         212753, -- Algari Potion Cauldron
     },
-    ["Food"] = {
-        -- Earthen Race
-    228492, -- Spice Rubies
-    228493, -- Sour Topaz Bites
-    228494, -- Crunchy Rock Candy
-    },
-
-    -- Darkmoon Deck parts
+        -- Darkmoon Deck parts
     ["Cards"] = {
         222681, -- Ace of Ascension
         222663, -- Ace of Radiance
@@ -298,13 +291,6 @@ local db = {
     ["Runes"] = {
         224572, -- Crystallized Augment Rune
         211495, -- Dreambound Augment Rune
-    },
-    ["Feast"] = {
-        222732, -- Feast of the Divine Day
-        222733, -- Feast of the Midnight Masquerade
-        228721, -- Hearty Feast
-        222783, -- Hearty Everything Stew
-        222784, -- Hearty Chippy Tea
     },
     ["Oil"] = {
         224106, -- Algari Mana Oil
