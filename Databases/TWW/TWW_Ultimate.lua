@@ -41,6 +41,7 @@ local db = {
         220769, -- Algari Token of Merit
         21100,  -- Coin of Ancestry
         236096, -- Coffer Key Shard
+        244465, -- Titan Disc Shard
     },
     ["Tools"] = {
         --alchemy
