@@ -1,4 +1,4 @@
-## Interface: 110170
+## Interface: 110107
 ## Title: BetterBags Bears Ultimate
 ## Version: @project-version@
 ## Author: Bearesquishy
