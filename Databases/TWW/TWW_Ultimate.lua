@@ -42,6 +42,7 @@ local db = {
         21100,  -- Coin of Ancestry
         236096, -- Coffer Key Shard
         244465, -- Titan Disc Shard
+        245653, -- coffer key shards
     },
     ["Tools"] = {
         --alchemy

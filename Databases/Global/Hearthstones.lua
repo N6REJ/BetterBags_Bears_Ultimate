@@ -157,6 +157,7 @@ local db = {
         180290, -- Night Fae Hearthstone
         169297, -- Stormpike Insignia
         40582, -- Scourgestone
+        247882, -- Phase Regulator
     }
 }
 -- now that db is populated lets pass it on.

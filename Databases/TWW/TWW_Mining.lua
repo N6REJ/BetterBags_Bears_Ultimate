@@ -23,6 +23,7 @@ local db = {
         210941, -- Null Stone
         217707, -- Imperfect Null Stone
         221754, -- Ringing Deeps Ingot
+        238212, -- Desolate Talus
     }
 }
 -- now that db is populated lets pass it on.
