@@ -23,7 +23,10 @@ local db = {
         210941, -- Null Stone
         217707, -- Imperfect Null Stone
         221754, -- Ringing Deeps Ingot
-        238212, -- Desolate Talus
+        238201, -- Desolate Talus 1
+        238212, -- Desolate Talus 2
+        238213, -- Desolate Talus 3
+        240216, -- K'areshi Resonating Stone
     }
 }
 -- now that db is populated lets pass it on.

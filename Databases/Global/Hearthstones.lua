@@ -158,6 +158,13 @@ local db = {
         169297, -- Stormpike Insignia
         40582, -- Scourgestone
         247882, -- Phase Regulator
+        245970, -- P.O.S.T. Master's Express Hearthstone
+        228940, -- Notorious Thread's Hearthstone
+        236687, -- Explosive Hearthstone
+        246565, -- Cosmic Hearthstone
+        209035, -- hearthstone of the flame
+        200630, -- Ohn'ir Windsage's Hearthstone
+        208704, -- Deepdweller's Earthen Hearthstone
     }
 }
 -- now that db is populated lets pass it on.

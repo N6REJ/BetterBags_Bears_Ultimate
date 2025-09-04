@@ -8,23 +8,27 @@ local _, addonTable = ...
 local db = {
     ["Herb"] = {
         -- ID,	--Item name
-        210805,    -- blessing Blossom 1
-        210806,    -- blessing Blossom 2
-        210807,    -- blessing Blossom 3
-        210808,    -- Arathor's Spear 1
-        210809,    -- Arathor's Spear 3
-        210810,    -- Arathor's Spear 3
-        210796,    -- Mycobloom 1
-        210797,    -- Mycobloom 2
-        210798,    -- Mycobloom 3
-        210799,    -- Luredrop 1
-        210800,    -- Luredrop 2
-        210801,    -- Luredrop 3
-        210802,    -- Orbinid 1
-        210803,    -- Orbinid 2
-        210804,    -- Orbinid 3
+        210805, -- blessing Blossom 1
+        210806, -- blessing Blossom 2
+        210807, -- blessing Blossom 3
+        210808, -- Arathor's Spear 1
+        210809, -- Arathor's Spear 3
+        210810, -- Arathor's Spear 3
+        210796, -- Mycobloom 1
+        210797, -- Mycobloom 2
+        210798, -- Mycobloom 3
+        210799, -- Luredrop 1
+        210800, -- Luredrop 2
+        210801, -- Luredrop 3
+        210802, -- Orbinid 1
+        210803, -- Orbinid 2
+        210804, -- Orbinid 3
         213197, -- Null Lotus
         213612, -- Viridescent Spores
+        240216, -- K'areshi Lotus
+        239692, -- Phantom Bloom 3
+        239691, -- Phantom Bloom 2
+        239690, -- Phantom Bloom 1
     },
     ["Crafted"] = {
         -- ID,	--Item name

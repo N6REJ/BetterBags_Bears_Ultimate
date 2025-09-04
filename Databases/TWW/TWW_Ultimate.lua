@@ -33,6 +33,8 @@ local db = {
         211494, -- Spark of Beginnings
         211296, -- Spark of Omens
         211297, -- Fractured Spark of Omens
+        231756, -- Spark of starlight
+        231757, -- Fractured spark of starlight
     },
     ["Currency"] = {
         210814, -- Artisan's Acuity
@@ -343,6 +345,9 @@ local db = {
         231154, -- Celebratory Pack of Runed Undermine Crests
         231270, -- Pack of Runed Undermine Crests
         231264, -- Glorious Cluster of Gilded Undermine Crests
+        231768, -- Enchanted Guilded Ethereal Crest
+        231769, -- Enchanted Runed Ethereal Crest
+        231767, -- Enchanted Weathered Ethereal Crest
     }
 }
 -- now that db is populated lets pass it on.

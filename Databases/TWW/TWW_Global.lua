@@ -97,7 +97,8 @@ local db = {
                     210232, -- Forged Aspirant's Heraldry
                     228338, -- Soul Sigil I
                     228339, -- Soul Sigil II
-
+                    251993, -- Gilded Starlight Matrix
+                    251994, -- Runed Starlight Matrix
         }
 
 }
