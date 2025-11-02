@@ -236,6 +236,9 @@ local db = {
         212245, -- Slumbering Soul Serum
         212246, -- Slumbering Soul Serum
         212247, -- Slumbering Soul Serum
+        244835, -- Invigorating Healing Potion 1
+        244838, -- Invigorating Healing Potion 2
+        244839, -- Invigorating Healing Potion 3
     },
     ["Cauldron"] = {
         212719, -- Algari Flask Cauldron
