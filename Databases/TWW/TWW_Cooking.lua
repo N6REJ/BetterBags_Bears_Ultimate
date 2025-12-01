@@ -49,6 +49,8 @@ local db = {
         222776, -- Hearty Beledar's Bounty
         222751, -- Hearty Simple Stew
         222752, -- Hearty Unseasoned Field Steak
+        222780, -- Hearty Feast of the Divine Day
+        222768, -- Hearty Sushi Special
 
     },
     ["Food"] = {
