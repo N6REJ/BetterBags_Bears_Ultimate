@@ -351,6 +351,10 @@ local db = {
         231768, -- Enchanted Guilded Ethereal Crest
         231769, -- Enchanted Runed Ethereal Crest
         231767, -- Enchanted Weathered Ethereal Crest
+    },
+    ["Lumber"] = {
+        248012, -- Dornic Fir Lumber
+
     }
 }
 -- now that db is populated lets pass it on.
