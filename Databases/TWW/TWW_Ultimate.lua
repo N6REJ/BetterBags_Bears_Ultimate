@@ -135,6 +135,8 @@ local db = {
         371368, -- Khaz'gorite Needle Set
         376546, -- Dragoncloth Tailoring Vestments
         382340, -- Spring-Loaded Khaz'gorite Fabric Cutters
+        -- Lumber
+        253580, -- Harvesting Hatchet
     },
     ["Phial"] = {
         212316, -- Phial of Bountiful Seasons
