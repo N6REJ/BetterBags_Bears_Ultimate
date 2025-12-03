@@ -51,6 +51,10 @@ local db = {
     ["Alchemy"] = {
         212754, -- Crystalforged Cauldron
 
+    },
+    ["lUMBER"] = {
+        248012, -- Dornic Fir Lumber
+
     }
 }
 -- now that db is populated lets pass it on.
