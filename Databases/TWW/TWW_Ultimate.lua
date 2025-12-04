@@ -356,7 +356,17 @@ local db = {
     },
     ["Lumber"] = {
         248012, -- Dornic Fir Lumber
-
+        251768, -- Darkpine Lumber
+        251763, -- Bamboo Lumber
+        251766, -- Shadowmoon Lumber
+        251772, -- Arden Lumber
+        251764, -- Ashwood Lumber
+        251773, -- Dragonpine Lumber
+        251762, -- Coldwind Lumber
+        256963, -- Thalassian Lumber
+        245586, -- Ironwood Lumber
+        242691, -- Olemba Lumber
+        251767, -- Fel-touched Lumber
     }
 }
 -- now that db is populated lets pass it on.
