@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 120001
 ## Title: BetterBags Bears Ultimate
 ## Version: @project-version@
 ## Author: Bearesquishy
@@ -44,4 +44,8 @@ Databases/Global/BattlePet.lua
 Databases/Global/Global.lua
 Databases/Global/Hearthstones.lua
 Databases/Global/Keystones.lua
+Databases/Midnight/Midnight_Cooking.lua
+Databases/Midnight/Midnight_Mining.lua
+Databases/Midnight/Midnight_Ultimate.lua
+
 core.lua
