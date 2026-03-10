@@ -13,4 +13,4 @@ local db = {
     }
 }
 -- now that db is populated lets pass it on.
-addonTable.Database.TWWMining = db
+addonTable.Database.MidnightMining = db
