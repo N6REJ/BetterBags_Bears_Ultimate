@@ -37,7 +37,7 @@ local db = {
     ["Runes"] = {
     },
     ["Oil"] = {
-        123649, -- Thalassian Phoenix Oil
+        243753, -- Thalassian Phoenix Oil
         243734, -- Thalassian Phoenix Oil 2
     },
     ["Crests"] = {
