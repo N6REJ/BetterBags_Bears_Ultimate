@@ -165,6 +165,9 @@ local db = {
         209035, -- hearthstone of the flame
         200630, -- Ohn'ir Windsage's Hearthstone
         208704, -- Deepdweller's Earthen Hearthstone
+        263933, -- Preyseeker's Hearthstone
+        265100, -- Corewarden's Hearthstone
+        257736, -- Lightcalled Hearthstone
     }
 }
 -- now that db is populated lets pass it on.
