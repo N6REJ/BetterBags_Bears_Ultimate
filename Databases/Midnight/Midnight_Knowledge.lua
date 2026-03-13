@@ -133,6 +133,7 @@ local db = {
         238617, -- Satin Throw Pillow
         238614, -- Sin'dorei Outfitter's Ruler
         238615, -- Wooden Weaving Sword
+
          -- Misc
         238465, -- Thalassian Phoenix Plume
         237496, -- Ingenious Rock Specimen
