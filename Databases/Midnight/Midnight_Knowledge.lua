@@ -24,6 +24,8 @@ local db = {
         246329, -- Glimmer of Midnight Inscription Knowledge
         246325, -- Glimmer of Midnight Enchanting Knowledge
         238465, -- Thalassian Phoenix Plume
+        238470, -- Simple leaf pruners
+        237496, -- Ingenious Rock Specimen
     }
 }
 -- now that db is populated lets pass it on.
