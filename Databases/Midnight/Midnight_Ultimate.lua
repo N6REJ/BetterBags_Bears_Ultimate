@@ -14,6 +14,7 @@ local db = {
         232875, -- Spark of Radiance
     },
     ["Currency"] = {
+        246951, -- Stormarion Core
     },
     ["Tools"] = {
         244639, -- Void-Touched Drums
