@@ -108,7 +108,8 @@ local db = {
     },
     ["Trinket"] = {
     },
-    ["Quest"] = {
+    ["Trap"] = {
+        255825, -- Disarmed Trap
     },
     ["Runes"] = {
         259085, -- Void-Touched Augment Rune
