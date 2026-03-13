@@ -73,6 +73,8 @@ local db = {
         238475, -- Planting Shovel
         238470, -- Simple Leaf Pruners
         238469, -- Sweeping Harvester's Scythe
+        258410,	-- Traditions of the Haranir: Herbalism
+        250443,	-- Echo of Abundance: Herbalism
 
         -- Midnight Inscription
         238577, -- Half-Baked Techniques
@@ -83,6 +85,8 @@ local db = {
         238579, -- Songwriter's Quill
         238574, -- Spare Ink
         238572, -- Void-Touched Quill
+        258411,	-- Traditions of the Haranir: Inscription
+        238577,	-- Half-Baked Techniques
 
         -- Midnight Jewelcrafting
         238582, -- Dual-Function Magnifiers
