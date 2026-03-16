@@ -15,6 +15,7 @@ local db = {
     },
     ["Currency"] = {
         246951, -- Stormarion Core
+        242241, -- Latent Arcana
     },
     ["Tools"] = {
         244639, -- Void-Touched Drums

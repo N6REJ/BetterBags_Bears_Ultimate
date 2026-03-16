@@ -143,6 +143,7 @@ local db = {
         238466, -- Thalassian Phoenix Tail
         238467, -- Thalassian Phoenix Ember
         237496, -- Ingenious Rock Specimen
+        267654, -- Swirling Arcane Essence
     }
 }
 -- now that db is populated lets pass it on.

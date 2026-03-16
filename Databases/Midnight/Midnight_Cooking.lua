@@ -192,6 +192,8 @@ local db = {
         265665, -- Chanterelle Shandy
         250858, -- Genedar Synthol
         264984, -- Darkwell Draft
+        242640, -- Plant protein
+        242639, -- Practically Pork
     }
 }
 -- now that db is populated lets pass it on.

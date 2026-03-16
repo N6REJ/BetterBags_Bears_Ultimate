@@ -28,7 +28,8 @@ local db = {
         239202, -- Sunfire Silk Bolt
     },
     ["Vendor"] = {
-
+        251691, -- Embroidery Floss
+        251665, -- silverleaf thread
     },
     ["Embellishment"] = {
 
