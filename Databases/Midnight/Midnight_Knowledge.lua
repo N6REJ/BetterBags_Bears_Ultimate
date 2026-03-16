@@ -140,6 +140,8 @@ local db = {
 
          -- Misc
         238465, -- Thalassian Phoenix Plume
+        238466, -- Thalassian Phoenix Tail
+        238467, -- Thalassian Phoenix Ember
         237496, -- Ingenious Rock Specimen
     }
 }
