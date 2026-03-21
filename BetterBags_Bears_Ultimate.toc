@@ -43,6 +43,7 @@ Databases/TWW/TWW_Ultimate.lua
 Databases/Midnight/Midnight_Cooking.lua
 Databases/Midnight/Midnight_Enchanting.lua
 Databases/Midnight/Midnight_Tailoring.lua
+Databases/Midnight/Midnight_Leatherworking.lua
 Databases/Midnight/Midnight_Mining.lua
 Databases/Midnight/Midnight_Knowledge.lua
 Databases/Midnight/Midnight_Ultimate.lua

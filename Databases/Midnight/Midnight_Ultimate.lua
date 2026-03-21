@@ -8,7 +8,8 @@ local _, addonTable = ...
 local db = {
     ['Turn-In'] = {
     },
-    ["Seeds"] = {
+    ["Mote"] = {
+        236951, -- Mote of wild magic
     },
     ["Sparks"] = {
         232875, -- Spark of Radiance
@@ -141,6 +142,10 @@ local db = {
     },
     ["Lumber"] = {
         256963, -- Thalassian Lumber
+    },
+    ["Mat"] = {
+        251285, -- Petrified Root
+        251283, -- Tormented Tantalum
     }
 }
 -- now that db is populated lets pass it on.
