@@ -26,7 +26,6 @@ local db = {
         236767, -- Tranquility Bloom
         516969, -- Wild Sanguithorn
         516980, -- Voidbound Sanguithorn
-        236770, -- Sanguithorn
     }
 }
 -- now that db is populated lets pass it on.
