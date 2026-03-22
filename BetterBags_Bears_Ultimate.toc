@@ -56,7 +56,6 @@ Databases/TWW/TWW_Mining.lua
 Databases/TWW/TWW_Tailoring.lua
 Databases/TWW/TWW_Ultimate.lua
 
-
 Databases/Global/BattlePet.lua
 Databases/Global/Global.lua
 Databases/Global/Hearthstones.lua
