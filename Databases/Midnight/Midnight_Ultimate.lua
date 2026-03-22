@@ -6,11 +6,6 @@ local _, addonTable = ...
 
 -- Database
 local db = {
-    ['Turn-In'] = {
-    },
-    ["Mote"] = {
-        236951, -- Mote of wild magic
-    },
     ["Sparks"] = {
         232875, -- Spark of Radiance
     },
@@ -107,11 +102,7 @@ local db = {
         241319, -- Cauldron of Sin'dorei Flasks
         241318, -- Cauldron of Sin'dorei Flasks
     },
-        -- Darkmoon Deck parts
-    ["Cards"] = {
-    },
-    ["Trinket"] = {
-    },
+
     ["Trap"] = {
         255825, -- Disarmed Trap
     },

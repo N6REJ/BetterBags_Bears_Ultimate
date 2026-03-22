@@ -87,6 +87,7 @@ local db = {
         238572, -- Void-Touched Quill
         258411,	-- Traditions of the Haranir: Inscription
         238577,	-- Half-Baked Techniques
+        245757, -- Thalassian Treatise on Inscription
 
         -- Midnight Jewelcrafting
         238582, -- Dual-Function Magnifiers
