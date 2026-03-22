@@ -33,6 +33,7 @@ Databases/Midnight/Midnight_Cooking.lua
 Databases/Midnight/Midnight_Enchanting.lua
 Databases/Midnight/Midnight_Engineering.lua
 Databases/Midnight/Midnight_Fishing.lua
+Databases/Midnight/Midnight_Herbalisim.lua
 Databases/Midnight/Midnight_Inscription.lua
 Databases/Midnight/Midnight_Knowledge.lua
 Databases/Midnight/Midnight_Leatherworking.lua
