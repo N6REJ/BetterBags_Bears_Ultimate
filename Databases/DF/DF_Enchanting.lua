@@ -28,12 +28,7 @@ local db = {
     },
     ["Tools"] = {
         -- ID  = true,		--Item name
-        376549, -- Wildercloth Enchanter's Hat
-        374537, -- Chromatic Focus
-        394189, -- Runed Serevite Rod
         390823, -- Runed Draconium Rod
-        376550, -- Master's Wildercloth Enchanter's Hat
-        374543, -- Resonant Focus
         390825, -- Runed Khaz'gorite Rod
 
     },

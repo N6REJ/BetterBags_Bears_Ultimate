@@ -28,7 +28,9 @@ local db = {
         238388, -- Tender Lumifin
         238389, -- Twisted Tetra
         238390, -- Warping Wise
-
+    },
+    [Buff] = {
+        238366, -- Lynxfish
     }
 }
 -- now that db is populated lets pass it on.

@@ -29,9 +29,10 @@ local db = {
 
     },
     ["Cauldron"] = {
-        245860, -- Voidlight Potion Cauldron
-        245861, -- Cauldron of Sin'dorei Flasks
-
+        241285, -- Voidlight Potion Cauldron
+        241284, -- Voidlight Potion Cauldron
+        241319, -- Cauldron of Sin'dorei Flasks
+        241318, -- Cauldron of Sin'dorei Flasks
     },
     ["Embellishment"] = {
         245880, -- Potion Absorption Inhibitor

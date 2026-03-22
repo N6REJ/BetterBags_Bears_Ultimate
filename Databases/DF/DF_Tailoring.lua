@@ -45,7 +45,6 @@ local db = {
             210671, -- Verdant Tether 1
             210672, -- Verdant Tether 2
             210673, -- Verdant Tether 3
-            208212, -- Dreaming Essence
         }
 }
 -- now that db is populated lets pass it on.

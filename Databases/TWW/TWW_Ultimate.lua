@@ -67,12 +67,6 @@ local db = {
         376548, -- Master's Wildercloth Chef's Hat
         383552, -- Chef's Splendid Rolling Pin
         --Enchanting
-        376549, -- Wildercloth Enchanter's Hat
-        374537, -- Chromatic Focus
-        394189, -- Runed Serevite Rod
-        390823, -- Runed Draconium Rod
-        376550, -- Master's Wildercloth Enchanter's Hat
-        374543, -- Resonant Focus
         3908225, -- Runed Khaz'gorite Rod
         -- Engineering
         382398, -- Draconium Brainwave Amplifier
@@ -300,7 +294,6 @@ local db = {
     },
     ["Runes"] = {
         224572, -- Crystallized Augment Rune
-        211495, -- Dreambound Augment Rune
     },
     ["Oil"] = {
         224106, -- Algari Mana Oil
@@ -320,8 +313,6 @@ local db = {
         234419, -- Steamboil Mounting System
     },
     ["Sparks"] = {
-        211297, -- Fractured Spark of Omens
-        211296, -- Spark of Omens
         230905, -- Fractured Spark of Fortunes
         230906, -- Spark of Fortunes
     },
@@ -329,9 +320,6 @@ local db = {
         220788, -- Nascent Weathered Harbinger Crest
         220790, -- Nascent Runed Harbinger Crest
         220789, -- Nascent Gilded Harbinger Crest
-        224069, -- Enchanted Weathered Harbinger Crest
-        224072, -- Enchanted Runed Harbinger Crest
-        224073, -- Enchanted Gilded Harbinger Crest
         230987, -- Nascent Weathered Undermine Crest
         230985, -- Nascent Runed Undermine Crest
         230986, -- Nascent Gilded Undermine Crest
@@ -363,7 +351,6 @@ local db = {
         251764, -- Ashwood Lumber
         251773, -- Dragonpine Lumber
         251762, -- Coldwind Lumber
-        256963, -- Thalassian Lumber
         245586, -- Ironwood Lumber
         242691, -- Olemba Lumber
         251767, -- Fel-touched Lumber

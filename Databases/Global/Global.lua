@@ -27,7 +27,6 @@ local db = {
     },
 
     ["Tools"] = {
-        197861, -- Fleeting Philosopher's Stone
         188152, -- Gateway Control Shard
     }
 }
