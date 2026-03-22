@@ -1,4 +1,4 @@
-﻿-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
+-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
 -- Source on GitHub: https://n6rej.github.io
 
 ---@type
@@ -7,6 +7,11 @@ local _, addonTable = ...
 -- Database
 
 local db = {
+    ["Cloth"] = {
+            -- ID  = true,		--Item name
+            193922, -- Wildercloth
+            193053, -- Contoured Fowlfeather
+    },
     ["Crafted"] = {
             -- ID  = true,		-- Item name
             192834, -- Shimmering Clasp 1
@@ -18,6 +23,7 @@ local db = {
             192876, -- Frameless Lens 1
             192877, -- Frameless Lens 2
             192878, -- Frameless Lens 3
+            191474, -- Draconic Vial 1
             191475, -- Draconic Vial 2
             191476, -- Draconic Vial 3
             200938, -- Empty Soul Cage
@@ -79,6 +85,7 @@ local db = {
             208746, -- Dreamtender's Charm 1
             208747, -- Dreamtender's Charm 2
             208748, -- Dreamtender's Charm 3
+            208212, -- Dreaming Essence
     }
 }
 -- now that db is populated lets pass it on.

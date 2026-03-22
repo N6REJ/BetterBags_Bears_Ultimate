@@ -1,4 +1,4 @@
-﻿-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
+-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
 -- Source on GitHub: https://n6rej.github.io
 
 ---@type
@@ -42,12 +42,18 @@ local db = {
     ["Fishing Items"] = {
         -- ID,	--Item name
         193529, -- Wildercloth Fishing Cap
+        199696, -- Iskaaran Ice Axe ( used for ice fishing )
+        199698, -- Irontree Harpoon Handle
+        199846, -- Seavine Harpoon Rope
         383732, -- Tuskarr Tackle box ( this might be incorrect )
         199694, -- Flying Fish Bone Charm
 
     },
     ["Poles"] = {
         -- ID    = true,    --Item name
+        198225, -- Draconium Fisherfriend
+        198226, -- Khaz'gorite Fisherfriend
+        199696, -- Iskaaran Ice Axe ( used for ice fishing )
 
     },
     ["Lures"] = {

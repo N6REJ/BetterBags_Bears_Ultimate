@@ -1,4 +1,4 @@
-﻿-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
+-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
 -- Source on GitHub: https://n6rej.github.io
 
 ---@type
@@ -38,6 +38,7 @@ local db = {
         226282, -- Nerubian Smith's Kit]
         224038, -- Smithing After Saronite
         225233, -- Dense Bladestone
+        224038, -- Smithing After Saronite
         222554, -- Algari Treatise on Blacksmithing
         228727, -- Glimmer of Blacksmithing Knowledge
         198791, -- Glimmer of Blacksmithing Wisdom
@@ -185,17 +186,30 @@ local db = {
         224648, -- Jewel-Etched Tailoring Notes
         227410, -- Faded Tailor's Diagrams
         222547, -- Algari Treatise on Tailoring
+        228739, -- Glimmer of Tailoring Knowledge
         227661, -- Gleaming Telluric Crystal
         -- #Artisan's Acuity
+        224645, -- Jewel-Etched Alchemy Notes
         224647, -- Jewel-Etched Blacksmithing Notes
+        224648, -- Jewel-Etched Tailoring Notes
+        224651, -- Machine-Learned Mining Notes
+        224652, -- Jewel-Etched Enchanting Notes
+        224653, -- Machine-Learned Engineering Notes
         224654, -- Machine-Learned Inscription Notes
         224655, -- Void-Lit Jewelcrafting Notes
+        224656, -- Void-Lit Herbalism Notes
         224657, -- Void-Lit Skinning Notes
         224658, -- Void-Lit Leatherworking Notes
         227407, -- Faded Blacksmith's Diagrams
         227408, -- Faded Scribe's Runic Drawings
+        227409, -- Faded Alchemist's Research
+        227410, -- Faded Tailor's Diagrams
         227411, -- Faded Enchanter's Research
+        227412, -- Faded Engineer's Scribblings
+        227413, -- Faded Jeweler's Illustrations
         227414, -- Faded Leatherworker's Diagrams
+        227415, -- Faded Herbalist's Notes
+        227416, -- Faded Miner's Notes
         227417, -- Faded Skinner's Notes
         227418, -- Exceptional Blacksmith's Diagrams
         227419, -- Exceptional Scribe's Runic Drawings
@@ -206,6 +220,7 @@ local db = {
         227424, -- Exceptional Jeweler's Illustrations
         227425, -- Exceptional Leatherworker's Diagrams
         227426, -- Exceptional Herbalist's Notes
+        227427, -- Exceptional Miner's Notes
         227428, -- Exceptional Skinner's Notes
         227429, -- Pristine Blacksmith's Diagrams
         227430, -- Pristine Scribe's Runic Drawings

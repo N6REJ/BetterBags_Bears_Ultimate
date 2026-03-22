@@ -1,4 +1,4 @@
-﻿-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
+-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
 -- Source on GitHub: https://n6rej.github.io
 
 ---@type
@@ -81,6 +81,7 @@ local db = {
         48957, -- Etched Signet of the Kirin Tor
         44934, -- Loop of the Kirin Tor
         51558, -- Runed Loop of the Kirin Tor
+        45689, -- Inscribed Loop of the Kirin Tor
         48955, -- Etched Loop of the Kirin Tor
         48954, -- Etched Band of the Kirin Tor
         118907, -- Pit Fighter's Punching Ring (Bizmo's Brawlpub)

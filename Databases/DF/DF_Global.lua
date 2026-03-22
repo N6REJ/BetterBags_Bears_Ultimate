@@ -1,4 +1,4 @@
-﻿-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
+-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
 -- Source on GitHub: https://n6rej.github.io
 
 ---@type
@@ -14,6 +14,7 @@ local db = {
         202122, -- Primal Chaos Cluster
         200686, -- Primal Focus
         190456, -- Artisan's Mettle
+        201405, -- Tuft of Primal Wool -- Used by many professions
         201406, -- Glowing Titan Orb   -- Used by many professions
         199197, -- Bottled Essence
         190455, -- Concentrated Primal Focus
@@ -142,6 +143,7 @@ local db = {
     },
     ["Vendor"] = {
         -- ID     --Item name
+        191474, -- Draconic Vial
         200860, -- Draconic Stopper
         197861, -- Fleeting Philosopher's Stone
         194784, -- Glittering Parchment
@@ -161,6 +163,16 @@ local db = {
     },
     ["Ore"] = {
         -- ID		--Item name
+        190394, -- Serevite Ore
+        190395, -- Serevite Ore
+        190396, -- Serevite Ore
+        189143, -- Draconium Ore 1
+        188658, -- Draconium Ore 2
+        190311, -- Draconium Ore 3
+        190312, -- Khaz'gorite Ore 1
+        190313, -- Khaz'gorite Ore 2
+        190314, -- Khaz'gorite Ore 3
+        194545, -- Prismatic Ore
     },
     ["Seeds"] = {
         -- ID,	--Item name

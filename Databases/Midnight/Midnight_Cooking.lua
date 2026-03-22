@@ -1,4 +1,4 @@
-﻿-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
+-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
 -- Source on GitHub: https://n6rej.github.io
 
 ---@type
@@ -60,6 +60,7 @@ local db = {
         238508, -- Felberry Figs
         238509, -- Amani All-Meat Chili
         238510, -- Void-Seared Steak
+        238511, -- Braised Tenderloins
         238512, -- Harandar Honey Roast
         238513, -- Ghostland Gumbo
         238514, -- Shimmering Sashimi
@@ -80,6 +81,15 @@ local db = {
         238529, -- Royal Ribs
         238530, -- Pickled Pike
         238531, -- Fried Fungalskin
+        238532, -- Spore-Spiced Ribs
+        238533, -- Root Crab Cocktail
+        238534, -- Blighted Berry Bun
+        238535, -- Darkshore Chowder
+        238536, -- Elven Energy Bar
+        238537, -- Radiant Risotto
+        238538, -- Star-Touched Tartare
+        238539, -- Twilight Toffee
+        238540, -- Cursed Cake
     }
 }
 -- now that db is populated lets pass it on.

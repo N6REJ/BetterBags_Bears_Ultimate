@@ -1,4 +1,4 @@
-﻿-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
+-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
 -- Source on GitHub: https://n6rej.github.io
 
 ---@type
@@ -78,6 +78,8 @@ local db = {
 
     },
     ["Vendor"] = {
+        245900, -- Thalassian Songwater (Ink Reagent)
+        245901, -- Lexicologist's Vellum (Crafting Base)
         39354, -- Light Parchment
     }
 

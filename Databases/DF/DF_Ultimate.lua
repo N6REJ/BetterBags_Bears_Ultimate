@@ -1,4 +1,4 @@
-﻿-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
+-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
 -- Source on GitHub: https://n6rej.github.io
 
 ---@type
@@ -106,6 +106,9 @@ local db = {
         191321, -- Phial of Still Air 1
         191322, -- Phial of Still Air 2
         191323, -- Phial of Still Air 3
+        191523, -- Reactive Phial Embellishment 1
+        191524, -- Reactive Phial Embellishment 2
+        191525, -- Reactive Phial Embellishment 3
         191330, -- Phial of Charged Isolation 1
         191331, -- Phial of Charged Isolation 2
         191332, -- Phial of Charged Isolation 3
@@ -516,15 +519,20 @@ local db = {
         210211, -- Molted Faerie Dragon Scales
         210194, -- Insomniotron
         210215, -- Dreamtalon Claw
+        210231, -- Everburning Core
+        210234, -- Essence of Dreams
         210184, -- Half-Filled Dreamless Sleep Potion
         210190, -- Blazeroot
         210208, -- Tuft of Dreamsaber Fur
+        210228, -- Pure Dream Water
         210197, -- Unhatched Battery
         210193, -- Experimental Dreamcatcher
         210464, -- Amirdrassil Defender's Shield
+        210461, -- Exceedingly Soft Wildercloth
         210465, -- Deathstalker Chassis
         210201, -- Handful of Pebbles
         210466, -- Flamesworn Render
+        210462, -- Plush Pillow
         210463, -- Snuggle Buddy
         210200, -- Petrified Hope
         210198, -- Depleted Battery
@@ -576,6 +584,7 @@ local db = {
         193492, -- Masterwork Smock
         193493, -- Expert Alchemist's Hat
         193528, -- Wildercloth Alchemist's Robe
+        193529, -- Wildercloth Fishing Cap
         193533, -- Master's Wildercloth Enchanter's Hat
         193534, -- Wildercloth Chef's Hat
         193538, -- Wildercloth Gardening Hat
@@ -596,6 +605,8 @@ local db = {
         194875, -- Scribe's Resplendent Quill
         198204, -- Draconium Brainwave Amplifier
         198205, -- Khaz'gorite Brainwave Amplifier
+        198225, -- Draconium Fisherfriend
+        198226, -- Khaz'gorite Fisherfriend
         198234, -- Lapidary's Draconium Clamps
         198235, -- Lapidary's Khaz'gorite Clamps
         198243, -- Draconium Delver's Helmet
@@ -619,6 +630,7 @@ local db = {
         199414, -- Zapthrottle Soul Inhaler
         191294, -- Small Expedition Shovel
         191304, -- Sturdy Expedition Shovel
+        199696, -- Iskaaran Ice Axe ( used for ice fishing )
         15138, -- Onyxia Scale Cloak ( For shadowflame chest )
     },
     ["Turn-In"] = {
@@ -744,6 +756,7 @@ local db = {
         204000, -- Storm infused Stone
         204015, -- Swirling Mojo Stone
         204020, -- Wild spirit Stone
+        208212, -- Dreaming Essence
     },
     ["Artisan"] = {
         -- ID,	--Item name
@@ -785,6 +798,7 @@ local db = {
         198162, -- Completely Safe Rockets 3
         211495, -- Dreambound Augment Rune
         201325, -- Draconic Augment Rune
+        211495, -- Dreambound Augment Rune
     },
     ["Currency"] = {
         -- ID    = true,    --Item name

@@ -1,4 +1,4 @@
-﻿-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
+-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
 -- Source on GitHub: https://n6rej.github.io
 
 ---@type
@@ -9,6 +9,7 @@ local _, addonTable = ...
 local db = {
     ["Leather"] = {
         -- ID,	--Item name
+        238511, -- Void-Tempered Leather
     },
     ["Skinning"] = {
         -- Trophies
