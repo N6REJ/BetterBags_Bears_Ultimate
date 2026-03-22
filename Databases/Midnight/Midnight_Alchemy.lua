@@ -33,7 +33,7 @@ local db = {
         245861, -- Cauldron of Sin'dorei Flasks
 
     },
-    ["Embellishnment"] = {
+    ["Embellishment"] = {
         245880, -- Potion Absorption Inhibitor
     }
 }

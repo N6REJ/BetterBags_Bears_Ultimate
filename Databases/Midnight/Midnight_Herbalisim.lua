@@ -30,4 +30,4 @@ local db = {
     }
 }
 -- now that db is populated lets pass it on.
-addonTable.Database.MIDNIGHTHerbalisim = db
+addonTable.Database.MidnightHerbalism = db
