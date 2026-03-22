@@ -1,4 +1,4 @@
--- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
+﻿-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
 -- Source on GitHub: https://n6rej.github.io
 
 ---@type
@@ -73,7 +73,6 @@ local db = {
         241302, -- Void-Shrouded Tincture
         241303, -- Void-Shrouded Tincture
         241297, -- Potion of Zealotry
-        245900, -- Fleeting Potion of Zealotry
         241287, -- Light's Preservation
         241301, -- Lightfused Mana Potion
         241294, -- Potion of Devoured Dreams
@@ -87,7 +86,6 @@ local db = {
         259245, -- Void Phase Potion
         259092, -- Void-Tinged Free Action Potion
         268955, -- Entropic Extract
-        245901, -- Fleeting Potion of Zealotry
         241339, -- Enlightenment Tonic
         241305, -- Silvermoon healing potion
         241304, -- Silvermoon healing potion 2

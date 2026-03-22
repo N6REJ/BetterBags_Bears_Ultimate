@@ -1,4 +1,4 @@
--- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
+﻿-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
 -- Source on GitHub: https://n6rej.github.io
 
 ---@type
@@ -42,9 +42,6 @@ local db = {
         221566, -- Weavercloth Bolt
         221567, -- Weavercloth Bolt
         221568, -- Weavercloth Bolt
-        222882, -- Weavercloth Embroidery Thread
-        222883, -- Weavercloth Embroidery Thread
-        222884, -- Weavercloth Embroidery Thread
         224832, -- Exquisite Weavercloth Bolt
         224833, -- Exquisite Weavercloth Bolt
         224834, -- Exquisite Weavercloth Bolt
@@ -64,7 +61,6 @@ local db = {
     },
     ["Crafted"] = {
         -- ID,	--Item name
-        224832, -- Exquisite Weavercloth Bolt
     },
     ["Vendor"] = {
         224764, -- Mosswool Thread

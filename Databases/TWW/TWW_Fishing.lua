@@ -1,4 +1,4 @@
--- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
+﻿-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
 -- Source on GitHub: https://n6rej.github.io
 
 ---@type
@@ -29,7 +29,6 @@ local db = {
         222529, -- Dornish Pike
         222092, -- Dornish Pike
         220143, -- Dornish Pike
-        225569, -- Clipped Bird Wing
         222096, -- Goldengill Trout
         222533, -- Goldengill Trout
         220138, -- Nibbling Minnow
@@ -44,7 +43,6 @@ local db = {
         220144, -- Roaring Anglerseeker
         222103, -- Sanguine Dogfish
         222540, -- Sanguine Dogfish
-        220149, -- Sanguine Dogfish
         220149, -- Sanguine Dogfish
         222539, -- Whispering Stargazer
         222102, -- Whispering Stargazer

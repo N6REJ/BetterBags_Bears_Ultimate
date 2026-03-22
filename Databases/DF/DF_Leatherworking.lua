@@ -1,4 +1,4 @@
--- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
+﻿-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
 -- Source on GitHub: https://n6rej.github.io
 
 ---@type
@@ -14,10 +14,7 @@ local db = {
         193261, -- Bite-Sized Morsel
         193262, -- Exceptional Morsel
         193253, -- Cacophonous Thunderscale
-        201399, -- Primal Bear Spine
         201404, -- Tallstrider Sinew
-        201405, -- Tuft of Primal Wool
-        201403, -- Mastodon Tusk
         193251, -- Crystalspine Fur
         193255, -- Pristine Vorquin Horn
         193256, -- Windsong Plumage
@@ -81,7 +78,6 @@ local db = {
         208187, -- Verdant Conduit 1
         208188, -- Verdant Conduit 2
         208189, -- Verdant Conduit 3
-        208212, -- Dreaming Essence
     }
 }
 -- now that db is populated lets pass it on.

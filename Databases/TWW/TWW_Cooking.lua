@@ -1,4 +1,4 @@
--- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
+﻿-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
 -- Source on GitHub: https://n6rej.github.io
 
 ---@type
@@ -34,7 +34,6 @@ local db = {
         225876, -- Fine Egg Powder
         222737, -- Chopped Mycobloom
         225883, -- Prepared Ghoulfish
-        223512, -- Basically Beef
         225569, -- Clipped Bird Wing
         225568, -- Slum Shark Scrap
         222738, -- Portioned Steak

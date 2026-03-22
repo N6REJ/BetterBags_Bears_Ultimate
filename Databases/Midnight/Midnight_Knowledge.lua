@@ -1,4 +1,4 @@
--- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
+﻿-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
 -- Source on GitHub: https://n6rej.github.io
 
 ---@type
@@ -26,18 +26,9 @@ local db = {
         246325, -- Glimmer of Midnight Enchanting Knowledge
 
         -- Midnight Alchemy
-        238539, -- Failed Experiment
-        238536, -- Freshly Plucked Peacebloom
-        238537, -- Measured Ladle
-        238538, -- Pristine Potion
-        238532, -- Vial of Eversong Oddities
-        238534, -- Vial of Rootlands Oddities
-        238533, -- Vial of Voidstorm Oddities
-        238535, -- Vial of Zul'Aman Oddities
 
         -- Midnight Blacksmithing
         238542, -- Carefully Racked Spear
-        238540, -- Deconstructed Forge Techniques
         238543, -- Metalworking Cheat Sheet
         238545, -- Rutaani Floratender's Sword
         238547, -- Silvermoon Blacksmith's Hammer
@@ -86,7 +77,6 @@ local db = {
         238574, -- Spare Ink
         238572, -- Void-Touched Quill
         258411,	-- Traditions of the Haranir: Inscription
-        238577,	-- Half-Baked Techniques
         245757, -- Thalassian Treatise on Inscription
 
         -- Midnight Jewelcrafting

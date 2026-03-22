@@ -1,4 +1,4 @@
--- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
+﻿-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever used.
 -- Source on GitHub: https://n6rej.github.io
 
 ---@type
@@ -22,9 +22,6 @@ local db = {
 
     ["Vendor"] = {
         -- ID,	--Item name
-        245610, -- Flux Cogwheel
-        245611, -- Greased Cogwheel
-        245612, -- Consistent Cogwheel
         4381, -- Fused Wiring (Standard reagent)
         10647, -- Engineering Courier
 
