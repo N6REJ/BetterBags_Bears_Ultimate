@@ -7,26 +7,31 @@ local _, addonTable = ...
 -- Database
 local db = {
     ["Motes"] = {
-        245301, -- Mote of Light
-        245302, -- Mote of Wild Magic
-        245303, -- Mote of Primal Energy
-        245304, -- Mote of Pure Void
+        236949, -- Mote of Light
+        236951, -- Mote of Wild Magic
+        236950, -- Mote of Primal Energy
+        236952, -- Mote of Pure Void
     },
     ["Crafted"] = {
         -- ID,	--Item name
-        245401, -- Oil of Heartwood
-        245402, -- Stabilized Derivate
-        245403, -- Wondrous Synergist
-        245404, -- Composite Flora
-        245405, -- Entropic Extract
-        245406, -- Amani Extract
-        245407, -- Light's Potential
-        245408, -- Void-Shrouded Tincture
+        241336, -- Oil of Heartwood
+        241337, -- Oil of Heartwood
+        241332, -- Stabilized Derivate
+        241333, -- Stabilized Derivate
+        241328, -- Wondrous Synergist
+        241329, -- Composite Flora
+        268954, -- Entropic Extract
+        268955, -- Entropic Extract
+        241298, -- Amani Extract
+        241299, -- Amani Extract
+        241308, -- Light's Potential
+        241309, -- Light's Potential
+        241302, -- Void-Shrouded Tincture
+        241303, -- Void-Shrouded Tincture
     },
     ["Vendor"] = {
-        245450, -- Sunglass Vial
-        245451, -- Alchemist's Catalyst
-
+        241282, -- Sunglass Vial
+        241283, -- Alchemist's Catalyst
     },
     ["Cauldron"] = {
         241285, -- Voidlight Potion Cauldron
@@ -35,7 +40,6 @@ local db = {
         241318, -- Cauldron of Sin'dorei Flasks
     },
     ["Embellishment"] = {
-        245880, -- Potion Absorption Inhibitor
     }
 }
 -- now that db is populated lets pass it on.

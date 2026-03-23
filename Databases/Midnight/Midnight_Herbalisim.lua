@@ -26,8 +26,7 @@ local db = {
         236767, -- Tranquility Bloom
         516969, -- Wild Sanguithorn
         516980, -- Voidbound Sanguithorn
-        245206, -- Nocturnal Lotus (Rare drop)
     }
 }
 -- now that db is populated lets pass it on.
-addonTable.Database.MidnightHerbalism = db
+addonTable.Database.MIDNIGHTHerbalisim = db
