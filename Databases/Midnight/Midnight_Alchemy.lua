@@ -14,8 +14,6 @@ local db = {
     },
     ["Crafted"] = {
         -- ID,	--Item name
-        241336, -- Oil of Heartwood
-        241337, -- Oil of Heartwood
         241332, -- Stabilized Derivate
         241333, -- Stabilized Derivate
         241328, -- Wondrous Synergist
@@ -32,6 +30,8 @@ local db = {
     ["Vendor"] = {
         240991, -- Sunglass Vial
         241283, -- Alchemist's Catalyst
+        247811, -- Oil of Heartwood ( Confirmed )
+
     },
     ["Cauldron"] = {
         241285, -- Voidlight Potion Cauldron

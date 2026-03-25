@@ -128,6 +128,11 @@ local db = {
     ["Mat"] = {
         251285, -- Petrified Root
         251283, -- Tormented Tantalum
+    },
+    ["Finish"] = {
+        265803, -- Bazaar Bites
+        265800, -- Earthy Garnish
+        265801, -- Savory Anomaly
     }
 }
 -- now that db is populated lets pass it on.

@@ -30,9 +30,6 @@ local db = {
         238372, -- Restored Songfish
         238370, -- Shimmer Spinefish
         238384, -- Sunwell Fish
-    },
-    [Buff] = {
-        238366, -- Lynxfish
     }
 }
 -- now that db is populated lets pass it on.
