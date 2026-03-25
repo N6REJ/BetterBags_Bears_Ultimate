@@ -30,7 +30,7 @@ local db = {
         241303, -- Void-Shrouded Tincture
     },
     ["Vendor"] = {
-        241282, -- Sunglass Vial
+        240991, -- Sunglass Vial
         241283, -- Alchemist's Catalyst
     },
     ["Cauldron"] = {

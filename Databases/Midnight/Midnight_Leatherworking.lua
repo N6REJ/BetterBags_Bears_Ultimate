@@ -9,15 +9,11 @@ local _, addonTable = ...
 local db = {
     ["Leather"] = {
         -- ID,	--Item name
-    },
-    ["Skinning"] = {
-        -- Trophies
-
-
+        238511, -- Void-tempered Leather
     },
     ["Crafted"] = {
         -- Crafted
-
+        244638, -- Silvermoon Weapon Wrap
     },
     ["Embellishment"] = {
             -- ID,	--Item name
