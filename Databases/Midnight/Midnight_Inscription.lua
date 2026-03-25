@@ -72,6 +72,16 @@ local db = {
         245804, -- Soul Cipher
         245802, -- Soul Cipher
     },
+    ["Sigil"] = {
+        245876, -- Darkmoon Sigil: Hunt
+        245875, -- Darkmoon Sigil: Hunt
+        245874, -- Darkmoon Sigil: Void
+        245873, -- Darkmoon Sigil: Void
+        245872, -- Darkmoon Sigil: Blood
+        245877, -- Darkmoon Sigil: Rot
+        245871, -- Darkmoon Sigil: Blood
+        245878, -- Darkmoon Sigil: Rot
+    },
     ["Vendor"] = {
         245881, -- Lexicologist's Vellum
     }
