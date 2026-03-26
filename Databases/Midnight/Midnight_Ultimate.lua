@@ -13,6 +13,7 @@ local db = {
         246951, -- Stormarion Core
         242241, -- Latent Arcana
         238987, -- Saltheril's Favor
+        264882, -- Finery Funds
     },
     ["Tools"] = {
         244639, -- Void-Touched Drums
