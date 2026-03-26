@@ -80,6 +80,7 @@ local db = {
         238529, -- Royal Ribs
         238530, -- Pickled Pike
         238531, -- Fried Fungalskin
+        242275, -- Royal Roast
     }
 }
 -- now that db is populated lets pass it on.
