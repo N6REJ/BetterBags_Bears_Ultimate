@@ -15,6 +15,9 @@ local db = {
         243600, -- Eversinging Dust
         243602, -- Radiant Shard
         243603, -- Radiant Shard
+    },
+    ["Enchants"] = {
+        240156, -- Bright Linen spellthread
     }
 }
 -- now that db is populated lets pass it on.
