@@ -9,6 +9,9 @@ local db = {
     ["Sparks"] = {
         232875, -- Spark of Radiance
     },
+    ["Seeds"] = {
+        237497, -- Resilient seed
+    },
     ["Currency"] = {
         246951, -- Stormarion Core
         242241, -- Latent Arcana
