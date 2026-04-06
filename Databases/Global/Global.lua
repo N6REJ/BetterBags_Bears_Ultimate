@@ -9,7 +9,9 @@ local _, addonTable = ...
 local db = {
     ["Pots"] = {
         5512, -- HealthStone
+        224464, -- Demonic HealthStone
         113509, -- Conjured Mana bun
+        224021, -- Survivalist's healing potion
     },
     ["Repair"] = {
         -- ID    = true,    --Item name
