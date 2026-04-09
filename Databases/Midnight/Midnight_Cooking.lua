@@ -23,6 +23,7 @@ local db = {
         242644, -- Pouch of Spices
         242645, -- Tavern Fixings
         242646, -- Thalassian Herbs
+        242647, -- Tavern Fixings
     },
     ["Crafted"] = { -- Crafted reagents used in other recipes
         253403, -- Thalassian Filet (Consolidated ID)
