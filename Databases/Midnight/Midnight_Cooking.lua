@@ -27,7 +27,6 @@ local db = {
     },
     ["Crafted"] = { -- Crafted reagents used in other recipes
         253403, -- Thalassian Filet (Consolidated ID)
-        239401, -- Hearty Spiced Biscuit
         239402, -- Hearty Felberry Fig
     },
     ["Feast"] = {
@@ -46,6 +45,7 @@ local db = {
         240302, -- Banquet of the Void-Eaters
         240303, -- Thalassian Royal Spread
         240304, -- Midnight Reveler's Buffet
+
         -- Utility
         240401, -- Angler's Afternoon Tea
         240402, -- Artisan's Working Lunch
@@ -82,6 +82,8 @@ local db = {
         238530, -- Pickled Pike
         238531, -- Fried Fungalskin
         242275, -- Royal Roast
+        239401, -- Hearty Spiced Biscuit
+        242747, -- Hearty Royal roast
     }
 }
 -- now that db is populated lets pass it on.
