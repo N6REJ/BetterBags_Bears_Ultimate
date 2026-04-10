@@ -96,7 +96,6 @@ local db = {
         258138, -- Potent Healing Potion
         241308, -- Light's Potential
         241309, -- Light's Potential
-
     },
     ["Trap"] = {
         255825, -- Disarmed Trap

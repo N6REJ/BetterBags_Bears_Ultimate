@@ -22,8 +22,6 @@ local db = {
         268955, -- Entropic Extract
         241298, -- Amani Extract
         241299, -- Amani Extract
-        241308, -- Light's Potential
-        241309, -- Light's Potential
         241302, -- Void-Shrouded Tincture
         241303, -- Void-Shrouded Tincture
     },
