@@ -82,7 +82,7 @@ local db = {
         238530, -- Pickled Pike
         238531, -- Fried Fungalskin
         242275, -- Royal Roast
-        239401, -- Hearty Spiced Biscuit
+        242771, -- Hearty Spiced Biscuit
         242747, -- Hearty Royal roast
     }
 }
