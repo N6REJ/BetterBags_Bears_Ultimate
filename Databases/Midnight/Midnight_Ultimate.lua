@@ -102,6 +102,8 @@ local db = {
     },
     ["Runes"] = {
         259085, -- Void-Touched Augment Rune
+        245879, -- vantas rne radiant
+
     },
     ["Oil"] = {
         243734, -- Thalassian Phoenix Oil
