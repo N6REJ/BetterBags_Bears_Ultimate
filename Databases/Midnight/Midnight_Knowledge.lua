@@ -26,6 +26,13 @@ local db = {
         246325, -- Glimmer of Midnight Enchanting Knowledge
 
         -- Midnight Alchemy
+        238539, -- Failed Experiment
+        238537, -- Measured Ladle
+        238538, -- Pristine potion
+        238532, -- Vial of Eversong Oddities
+        238534, -- Vial of Rootlands Oddities
+        238533, -- Vial of voidstorm oddities
+        238535, -- Vial of Zul'aman oddities
 
         -- Midnight Blacksmithing
         238542, -- Carefully Racked Spear
@@ -66,6 +73,8 @@ local db = {
         238469, -- Sweeping Harvester's Scythe
         258410,	-- Traditions of the Haranir: Herbalism
         250443,	-- Echo of Abundance: Herbalism
+        238472, -- A Spade
+
 
         -- Midnight Inscription
         238577, -- Half-Baked Techniques
