@@ -84,6 +84,7 @@ local db = {
         242275, -- Royal Roast
         242771, -- Hearty Spiced Biscuit
         242747, -- Hearty Royal roast
+        268679, -- Hearty Impossibly Royal roast
     }
 }
 -- now that db is populated lets pass it on.
