@@ -10,12 +10,12 @@ local db = {
     ["Pigment"] = {
         245807, -- Powder Pigment
         245808, -- Powder Pigment
-        245803, -- Argentleaf Pigment
-        245839, -- Sanguithorn Pigment
-        245842, -- Sanguithorn Pigment
+        245865, -- Sanguithorn Pigment
+        245864, -- Sanguithorn Pigment
         245836, -- Mana Lily Pigment
         245844, -- Mana Lily Pigment
-        245837, -- Argentleaf Pigment
+        245803, -- Argentleaf Pigment
+        245804, -- Argentleaf Pigment
     },
     ["Ink"] = {
         245801, -- Munsell Ink
@@ -51,7 +51,7 @@ local db = {
         245843, -- Three of Hunt
         245845, -- Five of Hunt
         245851, -- Seven of Hunt
-        245864, -- Eight of Hunt
+        245837, -- Eight of Hunt
 
         -- Rot
         245847, -- Ace of Rot
