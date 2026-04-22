@@ -24,6 +24,7 @@ local db = {
         241299, -- Amani Extract
         241302, -- Void-Shrouded Tincture
         241303, -- Void-Shrouded Tincture
+        241281, -- Composite Flora
     },
     ["Vendor"] = {
         240991, -- Sunglass Vial

@@ -30,7 +30,7 @@ local db = {
         245860, -- Five of Blood
         245861, -- Six of Blood
         245859, -- Four of Blood
-        245850, -- Seven of Blood
+        245862, -- Seven of Blood
         245863, -- Eight of Blood
 
         -- Void
