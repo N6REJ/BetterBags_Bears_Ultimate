@@ -17,6 +17,7 @@ local db = {
         242241, -- Latent Arcana
         238987, -- Saltheril's Favor
         264882, -- Finery Funds
+        267051, -- Dark Particles
     },
     ["Tools"] = {
         244639, -- Void-Touched Drums
