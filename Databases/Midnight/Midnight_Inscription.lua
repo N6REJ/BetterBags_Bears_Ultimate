@@ -49,7 +49,7 @@ local db = {
         245831, -- Two of Hunt
         245833, -- Four of Hunt
         245843, -- Three of Hunt
-        245845, -- Five of Hunt
+        245834, -- Five of Hunt
         245851, -- Seven of Hunt
         245837, -- Eight of Hunt
 
