@@ -103,7 +103,7 @@ local db = {
     },
     ["Runes"] = {
         259085, -- Void-Touched Augment Rune
-        245879, -- vantas rne radiant
+        245879, -- vantas rune radiant
 
     },
     ["Oil"] = {
@@ -139,6 +139,10 @@ local db = {
         265803, -- Bazaar Bites
         265800, -- Earthy Garnish
         265801, -- Savory Anomaly
+    },
+    ["Delve"] = {
+        255342, -- Beacon of Hope
+        252415, -- Trovehunter's Bounty
     }
 }
 -- now that db is populated lets pass it on.
