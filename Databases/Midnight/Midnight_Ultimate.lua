@@ -141,7 +141,7 @@ local db = {
         265801, -- Savory Anomaly
     },
     ["Delve"] = {
-        255342, -- Beacon of Hope
+        253342, -- Beacon of Hope
         252415, -- Trovehunter's Bounty
     }
 }
