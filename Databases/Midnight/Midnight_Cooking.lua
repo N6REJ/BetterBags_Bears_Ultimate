@@ -45,6 +45,7 @@ local db = {
         240302, -- Banquet of the Void-Eaters
         240303, -- Thalassian Royal Spread
         240304, -- Midnight Reveler's Buffet
+        242745, -- Hearty Blooming Feast
 
         -- Utility
         240401, -- Angler's Afternoon Tea
