@@ -39,6 +39,8 @@ local db = {
     },
     ["Embellishment"] = {
             -- ID,	--Item name
+        244674, -- Devouring Banding
+
     }
 }
 -- now that db is populated lets pass it on.
