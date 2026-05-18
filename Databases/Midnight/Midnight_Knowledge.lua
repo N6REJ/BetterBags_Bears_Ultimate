@@ -52,6 +52,7 @@ local db = {
         238553, -- Primal Essence Orb
         238550, -- Pure Void Crystal
         238555, -- Sin'dorei Enchanting Rod
+        267655, -- bRIMMING mANA sHARD
 
         -- Midnight Engineering
         238560, -- Ethereal Stormwrench
