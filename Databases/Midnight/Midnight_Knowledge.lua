@@ -128,6 +128,7 @@ local db = {
         238633, -- Sin'dorei Tanning Oil
         238635, -- Thalassian Skinning Knife
         238631, -- Voidstorm Leather Sample
+        238625, -- Fine Void-tempered hide
 
         -- Midnight Tailoring
         238612, -- A Child's Stuffy
