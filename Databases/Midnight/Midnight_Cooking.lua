@@ -40,6 +40,8 @@ local db = {
         240202, -- Hearty Harandar Stew
         240203, -- Farstrider's Field Feast
         240204, -- Symphony of Seafood
+        242373, -- Blooming Feast
+        255846, -- Harandar Celebration Feast
         -- Hearty (Persist through death)
         240301, -- Feast of the Eternal Sun
         240302, -- Banquet of the Void-Eaters

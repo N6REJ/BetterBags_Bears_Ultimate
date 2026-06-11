@@ -104,8 +104,15 @@ local db = {
     ["Runes"] = {
         259085, -- Void-Touched Augment Rune
         245879, -- vantas rune radiant
+        211495, -- Dreambound Augment Rune
+    },
+    ["Void"] = {
+        246952, -- Void-Touched Core
+        268650, -- Ascendant's Void Shard
+        268552, -- Ascendant's Voidcore
 
     },
+
     ["Oil"] = {
         243734, -- Thalassian Phoenix Oil
         243733, -- Thalassian Phoenix Oil
