@@ -48,6 +48,7 @@ local db = {
         240303, -- Thalassian Royal Spread
         240304, -- Midnight Reveler's Buffet
         242745, -- Hearty Blooming Feast
+        266996, -- Hearty Harandar Celebration Feast
 
         -- Utility
         240401, -- Angler's Afternoon Tea
