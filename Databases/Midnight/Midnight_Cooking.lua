@@ -42,7 +42,7 @@ local db = {
         240204, -- Symphony of Seafood
         242373, -- Blooming Feast
         255846, -- Harandar Celebration Feast
-        -- Hearty (Persist through death)
+        242273, -- Blooming Feast
         240301, -- Feast of the Eternal Sun
         240302, -- Banquet of the Void-Eaters
         240303, -- Thalassian Royal Spread
@@ -89,6 +89,7 @@ local db = {
         242771, -- Hearty Spiced Biscuit
         242747, -- Hearty Royal roast
         268679, -- Hearty Impossibly Royal roast
+        242759, -- Hearty Arcano cutlets
     }
 }
 -- now that db is populated lets pass it on.
