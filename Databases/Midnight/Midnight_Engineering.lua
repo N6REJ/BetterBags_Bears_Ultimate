@@ -8,16 +8,16 @@ local _, addonTable = ...
 
 local db = {
     ["Parts"] = {
-        245601, -- Evercore
-        245602, -- Aetherlume
-        245603, -- Song Gear
-        245604, -- Soul Sprocket
-        245605, -- Malleable Wireframe
-        245606, -- Pile of Junk
-        245610, -- Flux Cogwheel
-        245611, -- Greased Cogwheel
-        245612, -- Consistent Cogwheel
-        245613, -- Perfected Cogwheel
+        243574, -- Song Gear
+        243575, -- Song Gear
+        243576, -- Soul Sprocket
+        243577, -- Soul Sprocket
+        243578, -- Aetherlume
+        243579, -- Aetherlume
+        243581, -- Evercore
+        243582, -- Evercore
+        253302, -- Malleable Wireframe
+        253303, -- Pile of Junk
     },
 
     ["Vendor"] = {

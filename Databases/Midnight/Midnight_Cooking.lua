@@ -9,20 +9,38 @@ local db = {
     ["Meat"] = { -- Raw materials from mobs/world
         242639, -- Practically Pork
         242640, -- Plant Protein
-        242104, -- Mana-Wyrm Essence
-        242105, -- Sanguithorn
-        242106, -- Tranquility Bloom
-        242107, -- Mana Lily
-        242108, -- Azeroot
-        242109, -- Argentleaf
+        274588, -- Toxic Tlhapi
+        274589, -- Ula'tek Snakehead
+        274587, -- Spotted Killifish
+        274591, -- Coiled Stargorger
+        274593, -- Blightswarmer
+        274592, -- Dirty Darter
+        274590, -- Sulfurous Sludgefish
+        279094, -- Grotesque Sturgeon
+        279106, -- Loathsome Anglerfish
+        279093, -- Giggling Skull
+        279105, -- Twin-Headed Snipefish
+        279100, -- Many-Eyed Flounder
+        274594, -- Polluted Puffer
+        275284, -- Slobbery Tongue
+        275283, -- Amphibious Scrap
+        279091, -- Oozing Goby
+        275280, -- Gamey Flank
+        275288, -- Photosynthesized Scrap
+        275282, -- Smooth Loin
+        275285, -- Malleable Root
+        275281, -- Folded Wing
+        275289, -- Winged Stalk
+        275287, -- Cellular Slab
+        275286, -- Leafy Appendage
     },
     ["Vendor"] = { -- Hub-purchased reagents
         242641, -- Cooking Spirits
-        242642, -- A Big Ol' Stick of Butter
-        242643, -- Ripened Vegetable Assortment
-        242644, -- Pouch of Spices
-        242645, -- Tavern Fixings
-        242646, -- Thalassian Herbs
+        242642, -- Thalassian Herbs
+        242643, -- A Big Ol' Stick of Butter
+        242644, -- Mana-Wyrm Essence
+        242645, -- Ripened Vegetable Assortment
+        242646, -- Pouch of Spices
         242647, -- Tavern Fixings
     },
     ["Crafted"] = { -- Crafted reagents used in other recipes
@@ -65,16 +83,9 @@ local db = {
         238508, -- Felberry Figs
         238509, -- Amani All-Meat Chili
         238510, -- Void-Seared Steak
-        238512, -- Harandar Honey Roast
-        238513, -- Ghostland Gumbo
-        238514, -- Shimmering Sashimi
         238515, -- Voidstorm Vol-au-vent
         238516, -- Crimson Crab Cakes
         238517, -- Golden Gruel
-        238518, -- Arcane Apples
-        238519, -- Shadow-Salted Cod
-        238520, -- High Elf Hors d'oeuvres
-        238521, -- Sanguithorn Soup
         238522, -- Tranquility Tea
         238523, -- Mana Lily Meringue
         238524, -- Argentleaf Wraps

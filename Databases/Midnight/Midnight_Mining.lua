@@ -16,6 +16,8 @@ local db = {
         238202, -- Gloaming Alloy
         238203, -- Gloaming Alloy
         243060, -- Luminant Flux
+        273056, -- Odious Alloy
+        273057, -- Odious Alloy
         239611, -- Pure Loanite
         237359, -- Refulgent Copper Ore
         237361, -- Refulgent Copper Ore

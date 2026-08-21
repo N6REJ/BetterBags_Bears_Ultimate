@@ -51,6 +51,7 @@ Databases/Midnight/Midnight_Engineering.lua
 Databases/Midnight/Midnight_Fishing.lua
 Databases/Midnight/Midnight_Herbalisim.lua
 Databases/Midnight/Midnight_Inscription.lua
+Databases/Midnight/Midnight_Jewelcrafting.lua
 Databases/Midnight/Midnight_Knowledge.lua
 Databases/Midnight/Midnight_Leatherworking.lua
 Databases/Midnight/Midnight_Mining.lua

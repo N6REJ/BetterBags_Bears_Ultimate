@@ -8,6 +8,7 @@ local _, addonTable = ...
 local db = {
     ["Sparks"] = {
         232875, -- Spark of Radiance
+        274476, -- Spark of tidese
     },
     ["Seeds"] = {
         237497, -- Resilient seed
@@ -18,6 +19,8 @@ local db = {
         238987, -- Saltheril's Favor
         264882, -- Finery Funds
         267051, -- Dark Particles
+        273000, -- Corrosive Soul
+        278084, -- Ancient knucklebone
     },
     ["Tools"] = {
         244639, -- Void-Touched Drums
@@ -75,22 +78,16 @@ local db = {
         241338, -- Enlightenment Tonic
         241307, -- Refreshing Serum
         241295, -- Potion of Devoured Dreams
-        241302, -- Void-Shrouded Tincture
-        241303, -- Void-Shrouded Tincture
         241297, -- Potion of Zealotry
         241287, -- Light's Preservation
         241301, -- Lightfused Mana Potion
         241294, -- Potion of Devoured Dreams
         241286, -- Light's Preservation
-        241299, -- Amani Extract
         241306, -- Refreshing Serum
         245898, -- Fleeting Light's Potential
-        268954, -- Entropic Extract
-        241298, -- Amani Extract
         245897, -- Fleeting Light's Potential
         259245, -- Void Phase Potion
         259092, -- Void-Tinged Free Action Potion
-        268955, -- Entropic Extract
         241339, -- Enlightenment Tonic
         241305, -- Silvermoon healing potion
         241304, -- Silvermoon healing potion 2
@@ -146,6 +143,61 @@ local db = {
         265803, -- Bazaar Bites
         265800, -- Earthy Garnish
         265801, -- Savory Anomaly
+        246450, -- Artisan's Consortium Gold Star
+        246449, -- Mentor's Helpful Handiwork
+        246447, -- Apprentice's Scribbles
+        247719, -- Multicraft Matrix
+        246448, -- Artisan's Ledger
+        247724, -- Multicraft Manifold
+        247725, -- Resourceful Rebar
+        247788, -- Ingenious Identity
+        247726, -- Resourceful Routing
+        260630, -- Ingenious Identifier
+    },
+    ["Optional Reagents"] = {
+        273059, -- Hunter's Ritual Stone
+        273060, -- Hunter's Ritual Stone
+        273068, -- Adorned Fang
+        273069, -- Adorned Fang
+        273062, -- Coiled Snake-Eye
+        273063, -- Coiled Snake-Eye
+        273065, -- Polished Ammolite
+        273066, -- Polished Ammolite
+        240164, -- Sunfire Silk Lining
+        240165, -- Sunfire Silk Lining
+        240166, -- Arcanoweave Lining
+        240167, -- Arcanoweave Lining
+        270898, -- Snakeskin Lining
+        270899, -- Snakeskin Lining
+        244603, -- Blessed Pango Charm
+        244604, -- Blessed Pango Charm
+        244607, -- Primal Spore Binding
+        244608, -- Primal Spore Binding
+        244675, -- Devouring Banding
+        251487, -- Prismatic Focusing Iris
+        251488, -- Prismatic Focusing Iris
+        251489, -- Stabilizing Gemstone Bandolier
+        251490, -- Stabilizing Gemstone Bandolier
+        248130, -- Lucky Keychain
+        248132, -- Kinetic Ankle Primers
+        248133, -- Kinetic Ankle Primers
+        248135, -- B1P, Scorcher of Souls
+        248592, -- B1P, Scorcher of Souls
+        248136, -- M3DDY, Travel-Sized
+        255843, -- HU5H, Nonchalant Pup
+        255844, -- HU5H, Nonchalant Pup
+        257735, -- B0P, Curator of Booms
+        257741, -- B0P, Curator of Booms
+        244697, -- Flux Cogwheel
+        244698, -- Flux Cogwheel
+        244699, -- Greased Cogwheel
+        244700, -- Greased Cogwheel
+        244701, -- Perfected Cogwheel
+        244702, -- Perfected Cogwheel
+        244703, -- Consistent Cogwheel
+        244704, -- Consistent Cogwheel
+        244705, -- Mini-Medical Team
+        244706, -- Mini-Medical Team
     },
     ["Delve"] = {
         253342, -- Beacon of Hope
