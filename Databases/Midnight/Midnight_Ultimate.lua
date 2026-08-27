@@ -20,7 +20,9 @@ local db = {
         264882, -- Finery Funds
         267051, -- Dark Particles
         273000, -- Corrosive Soul
-        278084, -- Ancient knucklebone
+        276124, -- Ancient knucklebone
+        276117, -- Clouded Blood-Pearl
+        276126, -- Serpent's Feather
     },
     ["Tools"] = {
         244639, -- Void-Touched Drums
