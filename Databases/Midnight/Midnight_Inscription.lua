@@ -27,6 +27,7 @@ local db = {
         -- Blood
         245856, -- Ace of Blood
         245857, -- Two of Blood
+        245858, -- Three of Blood
         245860, -- Five of Blood
         245861, -- Six of Blood
         245859, -- Four of Blood
