@@ -48,7 +48,7 @@ CurseForge mod `1080003`, tracked by [curseforge-downloads-action](https://githu
 | Window | 365 days |
 | Snapshots | 1 |
 | Partial | day, week, month, year |
-| Generated at | `2026-10-21T00:04:11.181Z` |
+| Generated at | `2026-10-21T00:08:28.731Z` |
 
 Source data: [`curseforge/downloads.json`](https://raw.githubusercontent.com/N6REJ/BetterBags_Bears_Ultimate/stats-data/curseforge/downloads.json)
 
