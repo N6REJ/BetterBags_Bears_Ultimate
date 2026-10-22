@@ -42,9 +42,9 @@ Charts are generated on the first run. Customize them freely; only the data tabl
 |---|---|
 | Total | 58,608 |
 | Day | 14 |
-| Week | 58,608 (partial) |
-| Month | 58,608 (partial) |
-| Year | 58,608 (partial) |
+| Week | 14 (partial) |
+| Month | 14 (partial) |
+| Year | 14 (partial) |
 
 | Field | Value |
 |---|---|
