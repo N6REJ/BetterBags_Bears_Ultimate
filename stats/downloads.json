@@ -7,9 +7,9 @@
   "stats": {
     "total": 58608,
     "day": 14,
-    "week": 14,
-    "month": 14,
-    "year": 14
+    "week": 58608,
+    "month": 58608,
+    "year": 58608
   },
   "partial": {
     "day": false,
@@ -41,10 +41,11 @@
   },
   "snapshots": {
     "windowDays": 365,
-    "count": 2,
-    "firstDate": "2026-10-21",
+    "count": 3,
+    "firstDate": "2026-10-20",
     "lastDate": "2026-10-22",
     "series": {
+      "2026-10-20": 0,
       "2026-10-21": 58594,
       "2026-10-22": 58608
     }
