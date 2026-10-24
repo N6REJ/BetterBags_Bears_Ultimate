@@ -1,10 +1,15 @@
 package-as: BetterBags_Bears_Ultimate
 
+manual-changelog:
+    filename: CHANGELOG.md
+    markup-type: markdown
+
 ignore:
     - README.md
     - .github
     - .packager
     - .release
+    - stats
 
 required-dependencies:
     - Better-Bags
