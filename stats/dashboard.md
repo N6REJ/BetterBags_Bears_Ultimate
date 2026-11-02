@@ -40,22 +40,22 @@ Charts are generated on the first run. Customize them freely; only the data tabl
 
 | Metric | Value |
 |---|---|
-| Total | 58,888 |
-| Day | 0 |
-| Week | 243 |
-| Month | 0 |
-| Year | 294 (partial) |
+| Total | 58,977 |
+| Day | 89 |
+| Week | 0 |
+| Month | 89 |
+| Year | 383 (partial) |
 
 | Field | Value |
 |---|---|
 | Repository | `N6REJ/BetterBags_Bears_Ultimate` |
 | CurseForge mod id | `1080003` |
 | Update mode | daily |
-| Period | week `2026-W44`, month `Nov 2026`, year `2026` |
+| Period | week `2026-W45`, month `Nov 2026`, year `2026` |
 | Window | 365 days |
-| Snapshots | 13 |
+| Snapshots | 14 |
 | Partial | year |
-| Generated at | `2026-11-01T11:05:08.819Z` |
+| Generated at | `2026-11-02T12:04:36.379Z` |
 
 Source data: [`stats/downloads.json`](https://raw.githubusercontent.com/N6REJ/BetterBags_Bears_Ultimate/main/stats/downloads.json)
 
