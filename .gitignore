@@ -19,3 +19,6 @@
 .vsc/
 
 .qodo
+
+# Build cache
+/tools/.cache
