@@ -5,7 +5,7 @@
 [![Build Curse Release](https://github.com/N6REJ/AdiBags_Bears_Ultimate/actions/workflows/release.yml/badge.svg)](https://github.com/N6REJ/AdiBags_Bears_Ultimate/actions/workflows/release.yml)
 [![GitHub release](https://img.shields.io/github/release/N6REJ/BetterBags_Bears_Ultimate.svg)](https://github.com/N6REJ/BetterBags_Bears_Ultimate/releases/)
 
-![11.0.2](https://img.shields.io/badge/Ready_for-11.0.2-darkgreen)
+![Supports](https://img.shields.io/badge/Supports-Retaill%20%26%20Forever-0B68D7)
 [![curse](https://img.shields.io/badge/Curseforge_Project_ID:-1080003-purple)](https://legacy.curseforge.com/wow/addons/betterbags-bears-ultimate)
 [![requires](https://img.shields.io/badge/Requires-Betterbags-brown)](https://www.curseforge.com/wow/addons/better-bags)
 
@@ -29,6 +29,18 @@ and more are included.
 ![bag](https://github.com/user-attachments/assets/87e83e3f-34c8-4b76-b1ca-803201ccc4a0)
 
 If something is not here that you feel would be a good fit or if you find a bug, feel free to create an [Issue](http://github.com/N6REJ/BetterBags_Bears_Ultimate/issues)
+
+## WoW: Forever (Classic Plus)
+
+This addon also supports the **WoW: Forever** client (interface `16001`). Profession materials, consumables, tools, and utility items are organized into the same categories using filtered databases under `Databases/Forever/`.
+
+To regenerate the Forever databases after a game update:
+
+```bash
+python tools/build_forever_db.py
+```
+
+Requires Python 3 and network access to [wago.tools](https://wago.tools). Cached CSVs are stored in `tools/.cache/` (gitignored).
 
 NOTE:  Raid type "phials" are called <i>flasks</i> in TWW and <i>phials</i> are special purpose flasks
 
