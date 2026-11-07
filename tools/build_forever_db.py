@@ -50,6 +50,7 @@ def main():
         sp = sparse_map.get(r["ID"])
         if sp and sp.get("Display_lang"):
             item_map[r["ID"]] = {
+                "id": r["ID"],
                 "class": r["ClassID"],
                 "subclass": r["SubclassID"],
                 "name": sp["Display_lang"],
@@ -84,7 +85,7 @@ def main():
     categories["Cloth"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "5")
     categories["Enchanting"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "12" and "rod" not in i["name"].lower())
     categories["Elemental"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "10")
-    categories["Cooking"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "8")
+    categories["Cooking"] = filter_items(lambda i: (i["class"] == "7" and i["subclass"] == "8") or (i["id"] == "279981"))
     categories["Parts"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "1" and i["name"].lower() not in {"gnomish army knife", "gyromatic micro-adjustor"})
     categories["Gems"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "11" and i["name"].lower() in GEM_NAMES)
     categories["Oil"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "11" and "oil" in i["name"].lower() and not_excluded(i["name"]))
@@ -104,7 +105,7 @@ def main():
         "gyromatic micro-adjustor", "gnomish army knife", "arclight spanner",
         "thieves' tools", "mining tools",
     ]
-    categories["Tools"] = filter_items(lambda i: any(k in i["name"].lower() for k in TOOL_KEYWORDS) and not_excluded(i["name"]))
+    categories["Tools"] = filter_items(lambda i: (any(k in i["name"].lower() for k in TOOL_KEYWORDS) or i["id"] == "4471") and not_excluded(i["name"]))
 
     HEARTH_KEYWORDS = ["hearthstone", "teleport", "wormhole", "transporter", "recall", "slippers", "dimensional ripper", "ultrasafe transporter"]
     HEARTH_EXCLUDE = ["pattern:", "schematic:", "formula:", "plans:", "monster", "deprecated", "waylaid", "craftsman", "card", "deck", "ace of"]

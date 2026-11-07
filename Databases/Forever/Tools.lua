@@ -9,6 +9,7 @@ local db = {
     ["Tools"] = {
         2901, -- Mining Pick
         3567, -- Dwarven Fishing Pole
+        4471, -- Flint and Tinder
         4598, -- Goblin Fishing Pole
         5060, -- Thieves' Tools
         5956, -- Blacksmith Hammer
