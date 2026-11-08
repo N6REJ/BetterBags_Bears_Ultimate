@@ -81,7 +81,6 @@ local db = {
         239016, -- Holy Salts
         239017, -- Exquisite Spices
         273295, -- Seasonal Fish Steaks
-        279981, -- Basic Campfire Kit
     },
 }
 -- now that db is populated lets pass it on.

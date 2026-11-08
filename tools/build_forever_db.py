@@ -87,7 +87,7 @@ def main():
     categories["Cloth"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "5")
     categories["Enchanting"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "12" and "rod" not in i["name"].lower())
     categories["Elemental"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "10")
-    categories["Cooking"] = filter_items(lambda i: (i["class"] == "7" and i["subclass"] == "8") or (i["id"] == "279981"))
+    categories["Cooking"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "8")
     categories["Parts"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "1" and i["name"].lower() not in {"gnomish army knife", "gyromatic micro-adjustor"})
     categories["Gems"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "11" and i["name"].lower() in GEM_NAMES)
     categories["Oil"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "11" and "oil" in i["name"].lower() and not_excluded(i["name"]))
@@ -97,6 +97,16 @@ def main():
     categories["Food"] = filter_items(lambda i: i["class"] == "0" and i["subclass"] == "5" and not_excluded(i["name"]))
     categories["Buffs"] = filter_items(lambda i: i["class"] == "0" and i["subclass"] == "4" and not_excluded(i["name"]))
     categories["Armor kits"] = filter_items(lambda i: i["class"] == "0" and i["subclass"] == "6" and "armor kit" in i["name"].lower())
+
+    CAMPING_IDS = {
+        "279981", "279961", "279974",
+        "279956", "279944", "279976", "279950", "279978", "279972", "279960", "279962", "279979", "279967", "279968",
+        "279970", "279990", "279988", "279955", "279985", "279987", "279949", "279989", "279941", "279945", "279943",
+        "279959", "279948", "279952", "279964", "279947", "279969", "279938", "279957", "279982", "279965", "279966",
+        "279940", "279951",
+        "288185", "211527",
+    }
+    categories["Camping"] = filter_items(lambda i: i["id"] in CAMPING_IDS)
     categories["Bandages"] = filter_items(lambda i: i["class"] == "0" and i["subclass"] == "7" and not_excluded(i["name"]))
     categories["Elixirs"] = filter_items(lambda i: i["class"] == "0" and i["subclass"] == "2" and not_excluded(i["name"]))
     categories["Flasks"] = filter_items(lambda i: i["class"] == "0" and i["subclass"] == "3" and not_excluded(i["name"]))
@@ -116,7 +126,7 @@ def main():
 
     # Deduplicate by priority
     priority = [
-        "Tools", "Pots", "Food", "Elixirs", "Flasks", "Bandages", "Buffs",
+        "Camping", "Tools", "Pots", "Food", "Elixirs", "Flasks", "Bandages", "Buffs",
         "|cff16A0FFHearthstones|r", "Dyes", "Gems", "Oil", "Vials",
         "Herb", "Leather", "Metal", "Cloth", "Enchanting", "Elemental",
         "Cooking", "Parts",

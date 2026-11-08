@@ -59,6 +59,7 @@ Databases/Midnight/Midnight_Tailoring.lua
 Databases/Midnight/Midnight_Ultimate.lua
 Databases/Forever/Bandages.lua
 Databases/Forever/Buffs.lua
+Databases/Forever/Camping.lua
 Databases/Forever/Cloth.lua
 Databases/Forever/Cooking.lua
 Databases/Forever/Dyes.lua
