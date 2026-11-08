@@ -64,6 +64,7 @@ Databases/Forever/Cooking.lua
 Databases/Forever/Dyes.lua
 Databases/Forever/Elixirs.lua
 Databases/Forever/Elemental.lua
+Databases/Forever/ArmorKits.lua
 Databases/Forever/Enchanting.lua
 Databases/Forever/Flasks.lua
 Databases/Forever/Food.lua

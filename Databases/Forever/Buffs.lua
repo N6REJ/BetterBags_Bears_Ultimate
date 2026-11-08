@@ -17,7 +17,6 @@ local db = {
         1712, -- Scroll of Spirit II
         2289, -- Scroll of Strength II
         2290, -- Scroll of Intellect II
-        2304, -- Light Armor Kit
         3012, -- Scroll of Agility
         3013, -- Scroll of Protection
         4419, -- Scroll of Intellect III

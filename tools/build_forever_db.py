@@ -33,6 +33,8 @@ def load_csv(table):
 def safe_name(cat):
     if "hearthstone" in cat.lower():
         return "Hearthstones"
+    if "armor kit" in cat.lower():
+        return "ArmorKits"
     return cat
 
 
@@ -93,7 +95,8 @@ def main():
     categories["Dyes"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "11" and "dye" in i["name"].lower() and not_excluded(i["name"]))
     categories["Pots"] = filter_items(lambda i: i["class"] == "0" and ("healing potion" in i["name"].lower() or "mana potion" in i["name"].lower()) and not_excluded(i["name"]))
     categories["Food"] = filter_items(lambda i: i["class"] == "0" and i["subclass"] == "5" and not_excluded(i["name"]))
-    categories["Buffs"] = filter_items(lambda i: (i["class"] == "0" and i["subclass"] == "4" and not_excluded(i["name"])) or (i["class"] == "0" and i["name"].lower() == "light armor kit"))
+    categories["Buffs"] = filter_items(lambda i: i["class"] == "0" and i["subclass"] == "4" and not_excluded(i["name"]))
+    categories["Armor kits"] = filter_items(lambda i: i["class"] == "0" and i["subclass"] == "6" and "armor kit" in i["name"].lower())
     categories["Bandages"] = filter_items(lambda i: i["class"] == "0" and i["subclass"] == "7" and not_excluded(i["name"]))
     categories["Elixirs"] = filter_items(lambda i: i["class"] == "0" and i["subclass"] == "2" and not_excluded(i["name"]))
     categories["Flasks"] = filter_items(lambda i: i["class"] == "0" and i["subclass"] == "3" and not_excluded(i["name"]))
