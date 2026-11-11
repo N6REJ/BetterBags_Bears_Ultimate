@@ -88,6 +88,10 @@ def main():
     categories["Enchanting"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "12" and "rod" not in i["name"].lower())
     categories["Elemental"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "10")
     categories["Cooking"] = filter_items(lambda i: (i["class"] == "7" and i["subclass"] == "8") or (i["class"] == "7" and i["subclass"] == "11" and "spice" in i["name"].lower() and not_excluded(i["name"])))
+
+    # Manual items not present in the cached Forever DB export
+    item_map["280612"] = {"id": "280612", "class": "15", "subclass": "0", "name": "Night Watchman's Torch"}
+    categories["Torch"] = ["280612"]
     categories["Parts"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "1" and i["name"].lower() not in {"gnomish army knife", "gyromatic micro-adjustor"})
     categories["Gems"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "11" and i["name"].lower() in GEM_NAMES)
     categories["Oil"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "11" and "oil" in i["name"].lower() and not_excluded(i["name"]))
@@ -126,7 +130,7 @@ def main():
 
     # Deduplicate by priority
     priority = [
-        "Camping", "Tools", "Pots", "Food", "Elixirs", "Flasks", "Bandages", "Buffs",
+        "Torch", "Camping", "Tools", "Pots", "Food", "Elixirs", "Flasks", "Bandages", "Buffs",
         "|cff16A0FFHearthstones|r", "Dyes", "Gems", "Oil", "Vials",
         "Herb", "Leather", "Metal", "Cloth", "Enchanting", "Elemental",
         "Cooking", "Parts",
