@@ -87,7 +87,7 @@ def main():
     categories["Cloth"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "5")
     categories["Enchanting"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "12" and "rod" not in i["name"].lower())
     categories["Elemental"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "10")
-    categories["Cooking"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "8")
+    categories["Cooking"] = filter_items(lambda i: (i["class"] == "7" and i["subclass"] == "8") or (i["class"] == "7" and i["subclass"] == "11" and "spice" in i["name"].lower() and not_excluded(i["name"])))
     categories["Parts"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "1" and i["name"].lower() not in {"gnomish army knife", "gyromatic micro-adjustor"})
     categories["Gems"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "11" and i["name"].lower() in GEM_NAMES)
     categories["Oil"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "11" and "oil" in i["name"].lower() and not_excluded(i["name"]))

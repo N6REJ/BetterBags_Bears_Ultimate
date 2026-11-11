@@ -23,6 +23,8 @@ local db = {
         2674, -- Crawler Meat
         2675, -- Crawler Claw
         2677, -- Boar Ribs
+        2678, -- Mild Spices
+        2692, -- Hot Spices
         2886, -- Crag Boar Rib
         2924, -- Crocolisk Meat
         3172, -- Boar Intestines
@@ -32,6 +34,7 @@ local db = {
         3667, -- Tender Crocolisk Meat
         3685, -- Raptor Egg
         3712, -- Turtle Meat
+        3713, -- Soothing Spices
         3730, -- Big Bear Meat
         3731, -- Lion Meat
         4603, -- Raw Spotted Yellowtail
