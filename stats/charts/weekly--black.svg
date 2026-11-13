@@ -19,7 +19,7 @@
   </defs>
   <rect class="bg" x="0" y="0" width="1000" height="360" rx="16" />
   <text class="title" x="64" y="34">N6REJ/BetterBags_Bears_Ultimate downloads</text>
-  <text class="sub" x="64" y="352">Generated 2026-11-12</text>
+  <text class="sub" x="64" y="352">Generated 2026-11-13</text>
   <line x1="64" y1="52.00" x2="976" y2="52.00" class="grid"/>
   <text x="56" y="56.00" text-anchor="end" class="axis">1,037</text>
   <line x1="64" y1="94.00" x2="976" y2="94.00" class="grid"/>
@@ -34,16 +34,16 @@
   <text x="56" y="266.00" text-anchor="end" class="axis">173</text>
   <line x1="64" y1="304.00" x2="976" y2="304.00" class="grid"/>
   <text x="56" y="308.00" text-anchor="end" class="axis">0</text>
-  <path d="M 64.00 304 L 64.00 304.00 L 103.65 304.00 L 143.30 300.60 L 182.96 297.92 L 222.61 295.01 L 262.26 292.58 L 301.91 304.00 L 341.57 301.33 L 381.22 298.65 L 420.87 296.47 L 460.52 274.84 L 500.17 244.95 L 539.83 244.95 L 579.48 304.00 L 619.13 299.38 L 658.78 292.34 L 698.43 280.91 L 738.09 220.65 L 777.74 156.98 L 817.39 52.00 L 857.04 304.00 L 896.70 293.06 L 936.35 262.20 L 976.00 204.37 L 976.00 304 Z" fill="url(#fill-weekly-black)"/>
-  <polyline class="line" points="64.00,304.00 103.65,304.00 143.30,300.60 182.96,297.92 222.61,295.01 262.26,292.58 301.91,304.00 341.57,301.33 381.22,298.65 420.87,296.47 460.52,274.84 500.17,244.95 539.83,244.95 579.48,304.00 619.13,299.38 658.78,292.34 698.43,280.91 738.09,220.65 777.74,156.98 817.39,52.00 857.04,304.00 896.70,293.06 936.35,262.20 976.00,204.37"/>
-  <circle class="dot" cx="976.00" cy="204.37" r="4.5"/>
+  <path d="M 64.00 304 L 64.00 304.00 L 102.00 304.00 L 140.00 300.60 L 178.00 297.92 L 216.00 295.01 L 254.00 292.58 L 292.00 304.00 L 330.00 301.33 L 368.00 298.65 L 406.00 296.47 L 444.00 274.84 L 482.00 244.95 L 520.00 244.95 L 558.00 304.00 L 596.00 299.38 L 634.00 292.34 L 672.00 280.91 L 710.00 220.65 L 748.00 156.98 L 786.00 52.00 L 824.00 304.00 L 862.00 293.06 L 900.00 262.20 L 938.00 204.37 L 976.00 188.33 L 976.00 304 Z" fill="url(#fill-weekly-black)"/>
+  <polyline class="line" points="64.00,304.00 102.00,304.00 140.00,300.60 178.00,297.92 216.00,295.01 254.00,292.58 292.00,304.00 330.00,301.33 368.00,298.65 406.00,296.47 444.00,274.84 482.00,244.95 520.00,244.95 558.00,304.00 596.00,299.38 634.00,292.34 672.00,280.91 710.00,220.65 748.00,156.98 786.00,52.00 824.00,304.00 862.00,293.06 900.00,262.20 938.00,204.37 976.00,188.33"/>
+  <circle class="dot" cx="976.00" cy="188.33" r="4.5"/>
   
   <text class="axis" x="64.00" y="336" text-anchor="start">2026-10-20</text>
-  <text class="axis" x="222.61" y="336" text-anchor="middle">2026-10-24</text>
-  <text class="axis" x="381.22" y="336" text-anchor="middle">2026-10-28</text>
-  <text class="axis" x="539.83" y="336" text-anchor="middle">2026-11-01</text>
-  <text class="axis" x="698.43" y="336" text-anchor="middle">2026-11-05</text>
-  <text class="axis" x="857.04" y="336" text-anchor="middle">2026-11-09</text>
-  <text class="axis" x="976.00" y="336" text-anchor="end">2026-11-12</text>
-  <text class="latest" x="976" y="34" text-anchor="end">Latest week: 410</text>
+  <text class="axis" x="216.00" y="336" text-anchor="middle">2026-10-24</text>
+  <text class="axis" x="368.00" y="336" text-anchor="middle">2026-10-28</text>
+  <text class="axis" x="520.00" y="336" text-anchor="middle">2026-11-01</text>
+  <text class="axis" x="672.00" y="336" text-anchor="middle">2026-11-05</text>
+  <text class="axis" x="824.00" y="336" text-anchor="middle">2026-11-09</text>
+  <text class="axis" x="976.00" y="336" text-anchor="end">2026-11-13</text>
+  <text class="latest" x="976" y="34" text-anchor="end">Latest week: 476</text>
 </svg>
