@@ -79,5 +79,6 @@ Databases/Forever/Parts.lua
 Databases/Forever/Pots.lua
 Databases/Forever/Tools.lua
 Databases/Forever/Torch.lua
+Databases/Forever/Reagents.lua
 Databases/Forever/Vials.lua
 core.lua
