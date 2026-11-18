@@ -16,7 +16,10 @@ local db = {
         3827, -- Mana Potion
         3928, -- Superior Healing Potion
         4596, -- Minor Discolored Healing Potion
+        5631, -- Rage Potion
+        5633, -- Great Rage Potion
         6149, -- Greater Mana Potion
+        13442, -- Mighty Rage Potion
         13443, -- Superior Mana Potion
         13444, -- Major Mana Potion
         13446, -- Major Healing Potion

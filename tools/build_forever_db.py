@@ -104,7 +104,7 @@ def main():
     categories["Oil"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "11" and "oil" in i["name"].lower() and not_excluded(i["name"]))
     categories["Vials"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "11" and "vial" in i["name"].lower() and not_excluded(i["name"]))
     categories["Dyes"] = filter_items(lambda i: i["class"] == "7" and i["subclass"] == "11" and "dye" in i["name"].lower() and not_excluded(i["name"]))
-    categories["Pots"] = filter_items(lambda i: i["class"] == "0" and ("healing potion" in i["name"].lower() or "mana potion" in i["name"].lower()) and not_excluded(i["name"]))
+    categories["Pots"] = filter_items(lambda i: i["class"] == "0" and ("healing potion" in i["name"].lower() or "mana potion" in i["name"].lower() or "rage potion" in i["name"].lower()) and not_excluded(i["name"]))
     categories["Food"] = filter_items(lambda i: i["class"] == "0" and i["subclass"] == "5" and not_excluded(i["name"]))
     categories["Buffs"] = filter_items(lambda i: i["class"] == "0" and i["subclass"] == "4" and not_excluded(i["name"]))
     categories["Armor kits"] = filter_items(lambda i: i["class"] == "0" and i["subclass"] == "6" and "armor kit" in i["name"].lower())
