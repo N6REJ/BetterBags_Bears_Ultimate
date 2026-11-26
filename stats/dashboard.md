@@ -40,11 +40,11 @@ Charts are generated on the first run. Customize them freely; only the data tabl
 
 | Metric | Value |
 |---|---|
-| Total | 61,538 |
+| Total | 61,551 |
 | Day | 13 |
-| Week | 27 |
-| Month | 2,650 |
-| Year | 2,944 (partial) |
+| Week | 40 |
+| Month | 2,663 |
+| Year | 2,957 (partial) |
 
 | Field | Value |
 |---|---|
@@ -53,9 +53,9 @@ Charts are generated on the first run. Customize them freely; only the data tabl
 | Update mode | daily |
 | Period | week `2026-W48`, month `Nov 2026`, year `2026` |
 | Window | 365 days |
-| Snapshots | 37 |
+| Snapshots | 38 |
 | Partial | year |
-| Generated at | `2026-11-25T13:58:09.088Z` |
+| Generated at | `2026-11-26T13:37:13.431Z` |
 
 Source data: [`stats/downloads.json`](https://raw.githubusercontent.com/N6REJ/BetterBags_Bears_Ultimate/main/stats/downloads.json)
 
